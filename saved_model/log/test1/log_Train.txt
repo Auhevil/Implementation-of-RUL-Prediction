@@ -1,0 +1,2521 @@
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.21007, testing rmse: 21.05829, score: 1439.96451
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 1
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: train_multi_models_paper/model/test1
+save_path: train_multi_models_paper/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------train_multi_models_paper/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.20667, testing rmse: 14.50725, score: 323.99987
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.12817, testing rmse: 15.39292, score: 281.31522
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.11829, testing rmse: 13.92150, score: 313.24200
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.11495, testing rmse: 14.02444, score: 332.06757
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.11309, testing rmse: 13.58813, score: 271.00960
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.11261, testing rmse: 13.53625, score: 257.91704
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.11115, testing rmse: 13.29547, score: 232.09760
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.11088, testing rmse: 13.12122, score: 273.72601
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.11077, testing rmse: 13.17030, score: 287.67220
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.10949, testing rmse: 12.95715, score: 245.11931
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.20666, testing rmse: 14.37605, score: 321.02617
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.13073, testing rmse: 15.29221, score: 281.74627
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.12153, testing rmse: 14.01941, score: 300.70024
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.11832, testing rmse: 13.83878, score: 302.87604
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.11485, testing rmse: 13.61067, score: 283.63596
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.11228, testing rmse: 13.23837, score: 264.41732
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.11083, testing rmse: 13.63607, score: 236.38379
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.11100, testing rmse: 14.26598, score: 407.97319
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.11030, testing rmse: 13.01546, score: 270.67630
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.10918, testing rmse: 13.04860, score: 245.88978
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.61306 Best Score: 283.77432========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.12141 Best Score: 264.02685========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.99632 Best Score: 253.08443========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.94730 Best Score: 253.79505========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.86673 Best Score: 255.85662========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.20976 Best Score: 274.64027========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 10, training loss: 0.10792, testing rmse: 13.20976, score: 274.64027
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.15162 Best Score: 271.70174========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 11, training loss: 0.10741, testing rmse: 13.15162, score: 271.70174
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.86671 Best Score: 254.08799========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.81224 Best Score: 244.53339========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.76305 Best Score: 242.40664========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 12, training loss: 0.10864, testing rmse: 13.16483, score: 290.87337
+------------------------------------------------------------
+Epoch Loss: 13, training loss: 0.10718, testing rmse: 13.22772, score: 268.39379
+------------------------------------------------------------
+Epoch Loss: 14, training loss: 0.10660, testing rmse: 13.60032, score: 286.26540
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.72069 Best Score: 246.56456========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 15, training loss: 0.10672, testing rmse: 13.38633, score: 283.26968
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.10441 Best Score: 248.57371========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 16, training loss: 0.10711, testing rmse: 13.10441, score: 248.57371
+------------------------------------------------------------
+Epoch Loss: 17, training loss: 0.10607, testing rmse: 13.24072, score: 275.39161
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 200
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.23011, testing rmse: 19.70914, score: 1372.61821
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.14693, testing rmse: 14.58644, score: 376.51581
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.12367, testing rmse: 14.29178, score: 282.06172
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.12034, testing rmse: 14.18354, score: 311.70735
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.11645, testing rmse: 13.49387, score: 292.59021
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.11364, testing rmse: 13.62576, score: 269.64535
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.11296, testing rmse: 13.51504, score: 331.78801
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.11144, testing rmse: 12.86141, score: 248.22528
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.11033, testing rmse: 13.50024, score: 296.37297
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.10856, testing rmse: 13.77909, score: 328.42675
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.05488 Best Score: 244.81750========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.94272 Best Score: 264.62476========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.88422 Best Score: 283.03521========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.86704 Best Score: 269.97609========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.78744 Best Score: 260.94781========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.52637 Best Score: 228.90959========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.91395 Best Score: 259.68360========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 10, training loss: 0.10766, testing rmse: 12.91395, score: 259.68360
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.46568 Best Score: 220.55448========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 11, training loss: 0.10614, testing rmse: 13.90953, score: 269.29180
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.46152 Best Score: 225.52239========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.32367 Best Score: 231.65948========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 12, training loss: 0.10640, testing rmse: 13.08933, score: 306.31672
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.31418 Best Score: 229.20671========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.26990 Best Score: 226.25034========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 13, training loss: 0.10533, testing rmse: 13.79186, score: 263.85439
+------------------------------------------------------------
+Epoch Loss: 14, training loss: 0.10504, testing rmse: 14.08654, score: 260.95565
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.88035 Best Score: 275.98138========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 15, training loss: 0.10592, testing rmse: 12.88035, score: 275.98138
+------------------------------------------------------------
+Epoch Loss: 16, training loss: 0.10461, testing rmse: 13.40582, score: 339.14595
+------------------------------------------------------------
+Epoch Loss: 17, training loss: 0.10448, testing rmse: 13.28274, score: 330.18357
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.09755 Best Score: 233.69942========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.24080 Best Score: 218.43432========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 18, training loss: 0.10386, testing rmse: 12.24080, score: 218.43432
+------------------------------------------------------------
+Epoch Loss: 19, training loss: 0.10291, testing rmse: 12.52421, score: 254.52526
+------------------------------------------------------------
+Epoch Loss: 20, training loss: 0.10342, testing rmse: 12.89695, score: 254.82963
+------------------------------------------------------------
+Epoch Loss: 21, training loss: 0.10313, testing rmse: 13.28168, score: 339.78115
+------------------------------------------------------------
+Epoch Loss: 22, training loss: 0.10289, testing rmse: 12.81833, score: 264.82052
+------------------------------------------------------------
+Epoch Loss: 23, training loss: 0.10374, testing rmse: 12.96493, score: 303.77202
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.02635 Best Score: 229.38766========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 24, training loss: 0.10222, testing rmse: 12.67225, score: 281.23430
+------------------------------------------------------------
+Epoch Loss: 25, training loss: 0.10254, testing rmse: 12.56468, score: 225.86630
+------------------------------------------------------------
+Epoch Loss: 26, training loss: 0.10299, testing rmse: 12.50282, score: 250.25282
+------------------------------------------------------------
+Epoch Loss: 27, training loss: 0.10169, testing rmse: 12.49778, score: 263.94931
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.95248 Best Score: 223.21881========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 28, training loss: 0.10194, testing rmse: 12.26651, score: 208.79253
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.14487 Best Score: 208.69459========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 29, training loss: 0.10105, testing rmse: 12.14487, score: 208.69459
+------------------------------------------------------------
+Epoch Loss: 30, training loss: 0.10160, testing rmse: 13.31444, score: 252.48689
+------------------------------------------------------------
+Epoch Loss: 31, training loss: 0.10122, testing rmse: 12.89596, score: 267.15645
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.93226 Best Score: 220.64927========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 32, training loss: 0.10163, testing rmse: 13.32672, score: 360.86793
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.91466 Best Score: 217.66527========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 33, training loss: 0.10175, testing rmse: 13.74114, score: 406.87692
+------------------------------------------------------------
+Epoch Loss: 34, training loss: 0.10081, testing rmse: 12.67838, score: 254.30170
+------------------------------------------------------------
+Epoch Loss: 35, training loss: 0.10083, testing rmse: 12.55556, score: 228.17767
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.11680 Best Score: 244.60257========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 36, training loss: 0.10105, testing rmse: 12.11680, score: 244.60257
+------------------------------------------------------------
+Epoch Loss: 37, training loss: 0.10062, testing rmse: 13.48465, score: 287.81947
+------------------------------------------------------------
+Epoch Loss: 38, training loss: 0.10087, testing rmse: 12.28417, score: 249.30546
+------------------------------------------------------------
+Epoch Loss: 39, training loss: 0.10058, testing rmse: 12.85755, score: 294.18154
+------------------------------------------------------------
+Epoch Loss: 40, training loss: 0.10034, testing rmse: 13.15433, score: 301.90621
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.88764 Best Score: 206.32348========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 41, training loss: 0.10132, testing rmse: 12.74069, score: 266.77344
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.81955 Best Score: 220.57340========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 42, training loss: 0.10070, testing rmse: 13.28026, score: 323.22051
+------------------------------------------------------------
+Epoch Loss: 43, training loss: 0.10058, testing rmse: 12.13623, score: 244.50784
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.93503 Best Score: 244.22502========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 44, training loss: 0.10010, testing rmse: 11.93503, score: 244.22502
+------------------------------------------------------------
+Epoch Loss: 45, training loss: 0.09996, testing rmse: 13.08507, score: 263.48455
+------------------------------------------------------------
+Epoch Loss: 46, training loss: 0.10018, testing rmse: 12.91037, score: 308.80107
+------------------------------------------------------------
+Epoch Loss: 47, training loss: 0.09967, testing rmse: 12.75907, score: 262.71312
+------------------------------------------------------------
+Epoch Loss: 48, training loss: 0.10030, testing rmse: 12.45136, score: 253.21020
+------------------------------------------------------------
+Epoch Loss: 49, training loss: 0.09942, testing rmse: 12.82511, score: 296.94838
+------------------------------------------------------------
+Epoch Loss: 50, training loss: 0.10024, testing rmse: 12.76796, score: 269.05760
+------------------------------------------------------------
+Epoch Loss: 51, training loss: 0.10037, testing rmse: 12.43932, score: 255.22716
+------------------------------------------------------------
+Epoch Loss: 52, training loss: 0.10038, testing rmse: 12.71603, score: 278.82800
+------------------------------------------------------------
+Epoch Loss: 53, training loss: 0.10047, testing rmse: 12.63248, score: 271.37945
+------------------------------------------------------------
+Epoch Loss: 54, training loss: 0.09973, testing rmse: 12.55396, score: 264.13402
+------------------------------------------------------------
+Epoch Loss: 55, training loss: 0.09985, testing rmse: 12.62305, score: 271.62516
+------------------------------------------------------------
+Epoch Loss: 56, training loss: 0.09941, testing rmse: 12.50802, score: 273.25641
+------------------------------------------------------------
+Epoch Loss: 57, training loss: 0.10077, testing rmse: 13.06397, score: 302.44126
+------------------------------------------------------------
+Epoch Loss: 58, training loss: 0.09908, testing rmse: 13.25802, score: 345.20635
+------------------------------------------------------------
+Epoch Loss: 59, training loss: 0.09902, testing rmse: 13.19306, score: 257.95979
+------------------------------------------------------------
+Epoch Loss: 60, training loss: 0.09976, testing rmse: 12.45610, score: 249.19654
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.80788 Best Score: 214.55107========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 61, training loss: 0.09975, testing rmse: 13.11510, score: 270.41454
+------------------------------------------------------------
+Epoch Loss: 62, training loss: 0.09950, testing rmse: 13.03602, score: 314.46374
+------------------------------------------------------------
+Epoch Loss: 63, training loss: 0.09925, testing rmse: 12.55075, score: 293.50863
+------------------------------------------------------------
+Epoch Loss: 64, training loss: 0.09866, testing rmse: 12.41708, score: 278.62519
+------------------------------------------------------------
+Epoch Loss: 65, training loss: 0.09974, testing rmse: 12.14405, score: 255.72957
+------------------------------------------------------------
+Epoch Loss: 66, training loss: 0.09882, testing rmse: 12.98470, score: 342.32816
+------------------------------------------------------------
+Epoch Loss: 67, training loss: 0.09958, testing rmse: 14.05402, score: 345.20581
+------------------------------------------------------------
+Epoch Loss: 68, training loss: 0.09952, testing rmse: 13.56222, score: 351.06347
+------------------------------------------------------------
+Epoch Loss: 69, training loss: 0.09912, testing rmse: 13.35520, score: 274.64267
+------------------------------------------------------------
+Epoch Loss: 70, training loss: 0.09852, testing rmse: 13.12730, score: 253.33832
+------------------------------------------------------------
+Epoch Loss: 71, training loss: 0.09883, testing rmse: 12.34104, score: 240.81031
+------------------------------------------------------------
+Epoch Loss: 72, training loss: 0.09947, testing rmse: 12.34157, score: 272.45261
+------------------------------------------------------------
+Epoch Loss: 73, training loss: 0.09901, testing rmse: 12.58813, score: 265.12172
+------------------------------------------------------------
+Epoch Loss: 74, training loss: 0.09895, testing rmse: 12.44139, score: 286.54185
+------------------------------------------------------------
+Epoch Loss: 75, training loss: 0.09933, testing rmse: 13.25018, score: 267.93818
+------------------------------------------------------------
+Epoch Loss: 76, training loss: 0.09898, testing rmse: 12.46139, score: 269.32291
+------------------------------------------------------------
+Epoch Loss: 77, training loss: 0.09918, testing rmse: 12.60681, score: 270.93712
+------------------------------------------------------------
+Epoch Loss: 78, training loss: 0.09875, testing rmse: 12.45577, score: 253.91904
+------------------------------------------------------------
+Epoch Loss: 79, training loss: 0.09863, testing rmse: 12.95040, score: 300.84192
+------------------------------------------------------------
+Epoch Loss: 80, training loss: 0.09882, testing rmse: 12.30828, score: 277.65340
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.78256 Best Score: 210.73323========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.73466 Best Score: 214.28879========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 81, training loss: 0.09856, testing rmse: 13.49957, score: 346.34738
+------------------------------------------------------------
+Epoch Loss: 82, training loss: 0.09906, testing rmse: 12.41654, score: 236.71031
+------------------------------------------------------------
+Epoch Loss: 83, training loss: 0.09819, testing rmse: 12.36040, score: 269.02581
+------------------------------------------------------------
+Epoch Loss: 84, training loss: 0.09893, testing rmse: 12.43941, score: 244.47497
+------------------------------------------------------------
+Epoch Loss: 85, training loss: 0.09841, testing rmse: 12.75510, score: 281.70306
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.66545 Best Score: 215.00154========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 86, training loss: 0.09893, testing rmse: 12.49037, score: 290.71363
+------------------------------------------------------------
+Epoch Loss: 87, training loss: 0.09862, testing rmse: 12.31008, score: 236.78881
+------------------------------------------------------------
+Epoch Loss: 88, training loss: 0.09858, testing rmse: 12.61815, score: 273.42598
+------------------------------------------------------------
+Epoch Loss: 89, training loss: 0.09889, testing rmse: 13.10585, score: 324.07244
+------------------------------------------------------------
+Epoch Loss: 90, training loss: 0.09888, testing rmse: 11.93857, score: 238.70985
+------------------------------------------------------------
+Epoch Loss: 91, training loss: 0.09870, testing rmse: 12.38383, score: 277.09735
+------------------------------------------------------------
+Epoch Loss: 92, training loss: 0.09875, testing rmse: 13.21861, score: 267.91144
+------------------------------------------------------------
+Epoch Loss: 93, training loss: 0.09876, testing rmse: 13.10264, score: 312.28233
+------------------------------------------------------------
+Epoch Loss: 94, training loss: 0.09871, testing rmse: 12.60863, score: 279.89363
+------------------------------------------------------------
+Epoch Loss: 95, training loss: 0.09859, testing rmse: 12.46326, score: 246.98294
+------------------------------------------------------------
+Epoch Loss: 96, training loss: 0.09834, testing rmse: 12.26807, score: 259.83407
+------------------------------------------------------------
+Epoch Loss: 97, training loss: 0.09837, testing rmse: 12.75813, score: 286.10998
+------------------------------------------------------------
+Epoch Loss: 98, training loss: 0.09885, testing rmse: 12.95082, score: 271.82169
+------------------------------------------------------------
+Epoch Loss: 99, training loss: 0.09789, testing rmse: 12.66723, score: 262.90449
+------------------------------------------------------------
+Epoch Loss: 100, training loss: 0.09816, testing rmse: 13.83029, score: 299.88005
+------------------------------------------------------------
+Epoch Loss: 101, training loss: 0.09833, testing rmse: 12.79751, score: 250.10558
+------------------------------------------------------------
+Epoch Loss: 102, training loss: 0.09812, testing rmse: 12.86417, score: 295.19705
+------------------------------------------------------------
+Epoch Loss: 103, training loss: 0.09804, testing rmse: 12.41216, score: 236.09209
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.60656 Best Score: 215.07185========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.60656 Best Score: 215.07185========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 104, training loss: 0.09820, testing rmse: 11.60656, score: 215.07185
+------------------------------------------------------------
+Epoch Loss: 105, training loss: 0.09833, testing rmse: 12.16288, score: 256.25414
+------------------------------------------------------------
+Epoch Loss: 106, training loss: 0.09794, testing rmse: 12.04575, score: 244.13247
+------------------------------------------------------------
+Epoch Loss: 107, training loss: 0.09883, testing rmse: 12.20822, score: 251.14375
+------------------------------------------------------------
+Epoch Loss: 108, training loss: 0.09800, testing rmse: 12.06980, score: 249.85683
+------------------------------------------------------------
+Epoch Loss: 109, training loss: 0.09821, testing rmse: 12.52257, score: 260.88384
+------------------------------------------------------------
+Epoch Loss: 110, training loss: 0.09769, testing rmse: 12.59253, score: 260.36079
+------------------------------------------------------------
+Epoch Loss: 111, training loss: 0.09846, testing rmse: 13.02449, score: 272.52153
+------------------------------------------------------------
+Epoch Loss: 112, training loss: 0.09811, testing rmse: 12.08188, score: 248.69844
+------------------------------------------------------------
+Epoch Loss: 113, training loss: 0.09879, testing rmse: 11.63698, score: 214.29646
+------------------------------------------------------------
+Epoch Loss: 114, training loss: 0.09762, testing rmse: 12.95806, score: 301.81496
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.56852 Best Score: 217.11705========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 115, training loss: 0.09809, testing rmse: 12.26852, score: 251.33110
+------------------------------------------------------------
+Epoch Loss: 116, training loss: 0.09782, testing rmse: 13.48001, score: 347.04049
+------------------------------------------------------------
+Epoch Loss: 117, training loss: 0.09767, testing rmse: 13.49310, score: 365.62308
+------------------------------------------------------------
+Epoch Loss: 118, training loss: 0.09788, testing rmse: 12.62916, score: 263.95247
+------------------------------------------------------------
+Epoch Loss: 119, training loss: 0.09766, testing rmse: 12.28198, score: 259.55502
+------------------------------------------------------------
+Epoch Loss: 120, training loss: 0.09828, testing rmse: 12.98456, score: 314.31744
+------------------------------------------------------------
+Epoch Loss: 121, training loss: 0.09827, testing rmse: 12.89742, score: 325.48182
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.42108 Best Score: 217.91373========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 122, training loss: 0.09777, testing rmse: 13.08646, score: 274.98812
+------------------------------------------------------------
+Epoch Loss: 123, training loss: 0.09763, testing rmse: 12.95566, score: 266.96688
+------------------------------------------------------------
+Epoch Loss: 124, training loss: 0.09849, testing rmse: 12.13797, score: 230.13351
+------------------------------------------------------------
+Epoch Loss: 125, training loss: 0.09688, testing rmse: 12.60347, score: 278.90129
+------------------------------------------------------------
+Epoch Loss: 126, training loss: 0.09754, testing rmse: 12.32707, score: 261.73111
+------------------------------------------------------------
+Epoch Loss: 127, training loss: 0.09751, testing rmse: 12.58854, score: 281.48197
+------------------------------------------------------------
+Epoch Loss: 128, training loss: 0.09805, testing rmse: 12.57138, score: 241.36674
+------------------------------------------------------------
+Epoch Loss: 129, training loss: 0.09768, testing rmse: 11.96548, score: 244.57674
+------------------------------------------------------------
+Epoch Loss: 130, training loss: 0.09775, testing rmse: 12.59888, score: 266.91388
+------------------------------------------------------------
+Epoch Loss: 131, training loss: 0.09788, testing rmse: 12.19736, score: 267.96658
+------------------------------------------------------------
+Epoch Loss: 132, training loss: 0.09757, testing rmse: 12.99302, score: 251.14267
+------------------------------------------------------------
+Epoch Loss: 133, training loss: 0.09742, testing rmse: 12.46441, score: 284.02115
+------------------------------------------------------------
+Epoch Loss: 134, training loss: 0.09784, testing rmse: 13.48095, score: 353.07048
+------------------------------------------------------------
+Epoch Loss: 135, training loss: 0.09826, testing rmse: 12.49682, score: 262.86146
+------------------------------------------------------------
+Epoch Loss: 136, training loss: 0.09726, testing rmse: 12.37891, score: 240.59303
+------------------------------------------------------------
+Epoch Loss: 137, training loss: 0.09831, testing rmse: 13.54059, score: 362.95334
+------------------------------------------------------------
+Epoch Loss: 138, training loss: 0.09802, testing rmse: 12.28446, score: 266.71814
+------------------------------------------------------------
+Epoch Loss: 139, training loss: 0.09724, testing rmse: 12.51850, score: 272.20071
+------------------------------------------------------------
+Epoch Loss: 140, training loss: 0.09742, testing rmse: 12.64921, score: 259.94512
+------------------------------------------------------------
+Epoch Loss: 141, training loss: 0.09769, testing rmse: 12.40530, score: 256.42732
+------------------------------------------------------------
+Epoch Loss: 142, training loss: 0.09773, testing rmse: 12.41282, score: 272.69073
+------------------------------------------------------------
+Epoch Loss: 143, training loss: 0.09741, testing rmse: 13.07766, score: 299.48467
+------------------------------------------------------------
+Epoch Loss: 144, training loss: 0.09727, testing rmse: 12.27200, score: 265.51217
+------------------------------------------------------------
+Epoch Loss: 145, training loss: 0.09750, testing rmse: 12.58523, score: 249.11221
+------------------------------------------------------------
+Epoch Loss: 146, training loss: 0.09783, testing rmse: 13.10483, score: 314.85177
+------------------------------------------------------------
+Epoch Loss: 147, training loss: 0.09729, testing rmse: 13.52757, score: 274.70284
+------------------------------------------------------------
+Epoch Loss: 148, training loss: 0.09741, testing rmse: 11.95120, score: 253.73337
+------------------------------------------------------------
+Epoch Loss: 149, training loss: 0.09745, testing rmse: 11.97614, score: 224.46536
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.37712 Best Score: 214.00301========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 150, training loss: 0.09773, testing rmse: 12.49517, score: 274.42442
+------------------------------------------------------------
+Epoch Loss: 151, training loss: 0.09710, testing rmse: 12.19861, score: 242.53164
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.30375 Best Score: 205.26880========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 152, training loss: 0.09767, testing rmse: 12.65524, score: 292.45421
+------------------------------------------------------------
+Epoch Loss: 153, training loss: 0.09728, testing rmse: 12.07788, score: 257.19199
+------------------------------------------------------------
+Epoch Loss: 154, training loss: 0.09743, testing rmse: 12.90816, score: 299.39754
+------------------------------------------------------------
+Epoch Loss: 155, training loss: 0.09670, testing rmse: 12.66726, score: 243.73430
+------------------------------------------------------------
+Epoch Loss: 156, training loss: 0.09734, testing rmse: 11.95568, score: 234.22012
+------------------------------------------------------------
+Epoch Loss: 157, training loss: 0.09730, testing rmse: 12.69982, score: 300.98520
+------------------------------------------------------------
+Epoch Loss: 158, training loss: 0.09764, testing rmse: 12.21310, score: 242.41621
+------------------------------------------------------------
+Epoch Loss: 159, training loss: 0.09741, testing rmse: 12.99663, score: 303.91176
+------------------------------------------------------------
+Epoch Loss: 160, training loss: 0.09702, testing rmse: 12.47234, score: 257.29824
+------------------------------------------------------------
+Epoch Loss: 161, training loss: 0.09742, testing rmse: 12.20403, score: 258.62047
+------------------------------------------------------------
+Epoch Loss: 162, training loss: 0.09766, testing rmse: 12.07232, score: 263.65776
+------------------------------------------------------------
+Epoch Loss: 163, training loss: 0.09764, testing rmse: 11.84083, score: 214.44349
+------------------------------------------------------------
+Epoch Loss: 164, training loss: 0.09764, testing rmse: 12.52790, score: 266.09491
+------------------------------------------------------------
+Epoch Loss: 165, training loss: 0.09753, testing rmse: 12.12391, score: 260.03179
+------------------------------------------------------------
+Epoch Loss: 166, training loss: 0.09745, testing rmse: 12.04000, score: 256.95755
+------------------------------------------------------------
+Epoch Loss: 167, training loss: 0.09721, testing rmse: 12.51408, score: 231.58713
+------------------------------------------------------------
+Epoch Loss: 168, training loss: 0.09705, testing rmse: 12.49697, score: 279.59413
+------------------------------------------------------------
+Epoch Loss: 169, training loss: 0.09719, testing rmse: 13.88425, score: 310.08977
+------------------------------------------------------------
+Epoch Loss: 170, training loss: 0.09773, testing rmse: 13.05537, score: 278.60391
+------------------------------------------------------------
+Epoch Loss: 171, training loss: 0.09704, testing rmse: 12.07699, score: 237.22572
+------------------------------------------------------------
+Epoch Loss: 172, training loss: 0.09742, testing rmse: 12.30863, score: 279.86691
+------------------------------------------------------------
+Epoch Loss: 173, training loss: 0.09771, testing rmse: 12.76188, score: 284.62473
+------------------------------------------------------------
+Epoch Loss: 174, training loss: 0.09750, testing rmse: 12.48079, score: 268.51564
+------------------------------------------------------------
+Epoch Loss: 175, training loss: 0.09689, testing rmse: 12.66039, score: 272.68730
+------------------------------------------------------------
+Epoch Loss: 176, training loss: 0.09775, testing rmse: 13.41715, score: 315.57772
+------------------------------------------------------------
+Epoch Loss: 177, training loss: 0.09769, testing rmse: 11.89671, score: 228.45015
+------------------------------------------------------------
+Epoch Loss: 178, training loss: 0.09742, testing rmse: 12.95227, score: 279.38358
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.58610 Best Score: 211.66231========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 179, training loss: 0.09756, testing rmse: 11.58610, score: 211.66231
+------------------------------------------------------------
+Epoch Loss: 180, training loss: 0.09722, testing rmse: 12.35501, score: 247.43441
+------------------------------------------------------------
+Epoch Loss: 181, training loss: 0.09694, testing rmse: 12.68997, score: 298.54167
+------------------------------------------------------------
+Epoch Loss: 182, training loss: 0.09725, testing rmse: 11.95501, score: 235.69298
+------------------------------------------------------------
+Epoch Loss: 183, training loss: 0.09699, testing rmse: 12.43437, score: 266.02441
+------------------------------------------------------------
+Epoch Loss: 184, training loss: 0.09707, testing rmse: 12.93578, score: 318.68529
+------------------------------------------------------------
+Epoch Loss: 185, training loss: 0.09650, testing rmse: 13.74440, score: 275.07132
+------------------------------------------------------------
+Epoch Loss: 186, training loss: 0.09791, testing rmse: 12.62507, score: 283.98816
+------------------------------------------------------------
+Epoch Loss: 187, training loss: 0.09706, testing rmse: 12.00325, score: 239.71301
+------------------------------------------------------------
+Epoch Loss: 188, training loss: 0.09779, testing rmse: 12.57940, score: 266.24481
+------------------------------------------------------------
+Epoch Loss: 189, training loss: 0.09719, testing rmse: 12.34435, score: 260.93798
+------------------------------------------------------------
+Epoch Loss: 190, training loss: 0.09725, testing rmse: 12.20745, score: 265.78251
+------------------------------------------------------------
+Epoch Loss: 191, training loss: 0.09717, testing rmse: 12.76722, score: 276.56706
+------------------------------------------------------------
+Epoch Loss: 192, training loss: 0.09647, testing rmse: 12.78399, score: 293.57171
+------------------------------------------------------------
+Epoch Loss: 193, training loss: 0.09729, testing rmse: 11.89613, score: 243.53970
+------------------------------------------------------------
+Epoch Loss: 194, training loss: 0.09729, testing rmse: 12.51736, score: 282.35296
+------------------------------------------------------------
+Epoch Loss: 195, training loss: 0.09725, testing rmse: 12.00892, score: 250.11479
+------------------------------------------------------------
+Epoch Loss: 196, training loss: 0.09678, testing rmse: 12.83439, score: 239.17314
+------------------------------------------------------------
+Epoch Loss: 197, training loss: 0.09706, testing rmse: 11.90543, score: 235.30586
+------------------------------------------------------------
+Epoch Loss: 198, training loss: 0.09681, testing rmse: 13.32302, score: 336.33274
+------------------------------------------------------------
+Epoch Loss: 199, training loss: 0.09761, testing rmse: 12.22483, score: 245.26924
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.30375 Best Score: 205.26880========
+========New Final Best Test Loss Updata: 11.58610 Best Score: 211.66231========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 500
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.23011, testing rmse: 19.70914, score: 1372.61821
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.14693, testing rmse: 14.58644, score: 376.51581
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.12367, testing rmse: 14.29178, score: 282.06172
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.12034, testing rmse: 14.18354, score: 311.70735
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.11645, testing rmse: 13.49387, score: 292.59021
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.11364, testing rmse: 13.62576, score: 269.64535
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.11296, testing rmse: 13.51504, score: 331.78801
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.11144, testing rmse: 12.86141, score: 248.22528
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.11033, testing rmse: 13.50024, score: 296.37297
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.10856, testing rmse: 13.77909, score: 328.42675
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.05488 Best Score: 244.81750========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.94272 Best Score: 264.62476========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.88422 Best Score: 283.03521========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.86704 Best Score: 269.97609========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.78744 Best Score: 260.94781========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.52637 Best Score: 228.90959========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.91395 Best Score: 259.68360========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 10, training loss: 0.10766, testing rmse: 12.91395, score: 259.68360
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.46568 Best Score: 220.55448========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 11, training loss: 0.10614, testing rmse: 13.90953, score: 269.29180
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.46152 Best Score: 225.52239========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.32367 Best Score: 231.65948========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 12, training loss: 0.10640, testing rmse: 13.08933, score: 306.31672
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.31418 Best Score: 229.20671========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.26990 Best Score: 226.25034========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 13, training loss: 0.10533, testing rmse: 13.79186, score: 263.85439
+------------------------------------------------------------
+Epoch Loss: 14, training loss: 0.10504, testing rmse: 14.08654, score: 260.95565
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.88035 Best Score: 275.98138========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 15, training loss: 0.10592, testing rmse: 12.88035, score: 275.98138
+------------------------------------------------------------
+Epoch Loss: 16, training loss: 0.10461, testing rmse: 13.40582, score: 339.14595
+------------------------------------------------------------
+Epoch Loss: 17, training loss: 0.10448, testing rmse: 13.28274, score: 330.18357
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.09755 Best Score: 233.69942========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.24080 Best Score: 218.43432========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 18, training loss: 0.10386, testing rmse: 12.24080, score: 218.43432
+------------------------------------------------------------
+Epoch Loss: 19, training loss: 0.10291, testing rmse: 12.52421, score: 254.52526
+------------------------------------------------------------
+Epoch Loss: 20, training loss: 0.10342, testing rmse: 12.89695, score: 254.82963
+------------------------------------------------------------
+Epoch Loss: 21, training loss: 0.10313, testing rmse: 13.28168, score: 339.78115
+------------------------------------------------------------
+Epoch Loss: 22, training loss: 0.10289, testing rmse: 12.81833, score: 264.82052
+------------------------------------------------------------
+Epoch Loss: 23, training loss: 0.10374, testing rmse: 12.96493, score: 303.77202
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.02635 Best Score: 229.38766========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 24, training loss: 0.10222, testing rmse: 12.67225, score: 281.23430
+------------------------------------------------------------
+Epoch Loss: 25, training loss: 0.10254, testing rmse: 12.56468, score: 225.86630
+------------------------------------------------------------
+Epoch Loss: 26, training loss: 0.10299, testing rmse: 12.50282, score: 250.25282
+------------------------------------------------------------
+Epoch Loss: 27, training loss: 0.10169, testing rmse: 12.49778, score: 263.94931
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.95248 Best Score: 223.21881========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 28, training loss: 0.10194, testing rmse: 12.26651, score: 208.79253
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.14487 Best Score: 208.69459========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 29, training loss: 0.10105, testing rmse: 12.14487, score: 208.69459
+------------------------------------------------------------
+Epoch Loss: 30, training loss: 0.10160, testing rmse: 13.31444, score: 252.48689
+------------------------------------------------------------
+Epoch Loss: 31, training loss: 0.10122, testing rmse: 12.89596, score: 267.15645
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.93226 Best Score: 220.64927========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 32, training loss: 0.10163, testing rmse: 13.32672, score: 360.86793
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.91466 Best Score: 217.66527========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 33, training loss: 0.10175, testing rmse: 13.74114, score: 406.87692
+------------------------------------------------------------
+Epoch Loss: 34, training loss: 0.10081, testing rmse: 12.67838, score: 254.30170
+------------------------------------------------------------
+Epoch Loss: 35, training loss: 0.10083, testing rmse: 12.55556, score: 228.17767
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.11680 Best Score: 244.60257========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 36, training loss: 0.10105, testing rmse: 12.11680, score: 244.60257
+------------------------------------------------------------
+Epoch Loss: 37, training loss: 0.10062, testing rmse: 13.48465, score: 287.81947
+------------------------------------------------------------
+Epoch Loss: 38, training loss: 0.10087, testing rmse: 12.28417, score: 249.30546
+------------------------------------------------------------
+Epoch Loss: 39, training loss: 0.10058, testing rmse: 12.85755, score: 294.18154
+------------------------------------------------------------
+Epoch Loss: 40, training loss: 0.10034, testing rmse: 13.15433, score: 301.90621
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.88764 Best Score: 206.32348========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 41, training loss: 0.10132, testing rmse: 12.74069, score: 266.77344
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.81955 Best Score: 220.57340========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 42, training loss: 0.10070, testing rmse: 13.28026, score: 323.22051
+------------------------------------------------------------
+Epoch Loss: 43, training loss: 0.10058, testing rmse: 12.13623, score: 244.50784
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.93503 Best Score: 244.22502========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 44, training loss: 0.10010, testing rmse: 11.93503, score: 244.22502
+------------------------------------------------------------
+Epoch Loss: 45, training loss: 0.09996, testing rmse: 13.08507, score: 263.48455
+------------------------------------------------------------
+Epoch Loss: 46, training loss: 0.10018, testing rmse: 12.91037, score: 308.80107
+------------------------------------------------------------
+Epoch Loss: 47, training loss: 0.09967, testing rmse: 12.75907, score: 262.71312
+------------------------------------------------------------
+Epoch Loss: 48, training loss: 0.10030, testing rmse: 12.45136, score: 253.21020
+------------------------------------------------------------
+Epoch Loss: 49, training loss: 0.09942, testing rmse: 12.82511, score: 296.94838
+------------------------------------------------------------
+Epoch Loss: 50, training loss: 0.10024, testing rmse: 12.76796, score: 269.05760
+------------------------------------------------------------
+Epoch Loss: 51, training loss: 0.10037, testing rmse: 12.43932, score: 255.22716
+------------------------------------------------------------
+Epoch Loss: 52, training loss: 0.10038, testing rmse: 12.71603, score: 278.82800
+------------------------------------------------------------
+Epoch Loss: 53, training loss: 0.10047, testing rmse: 12.63248, score: 271.37945
+------------------------------------------------------------
+Epoch Loss: 54, training loss: 0.09973, testing rmse: 12.55396, score: 264.13402
+------------------------------------------------------------
+Epoch Loss: 55, training loss: 0.09985, testing rmse: 12.62305, score: 271.62516
+------------------------------------------------------------
+Epoch Loss: 56, training loss: 0.09941, testing rmse: 12.50802, score: 273.25641
+------------------------------------------------------------
+Epoch Loss: 57, training loss: 0.10077, testing rmse: 13.06397, score: 302.44126
+------------------------------------------------------------
+Epoch Loss: 58, training loss: 0.09908, testing rmse: 13.25802, score: 345.20635
+------------------------------------------------------------
+Epoch Loss: 59, training loss: 0.09902, testing rmse: 13.19306, score: 257.95979
+------------------------------------------------------------
+Epoch Loss: 60, training loss: 0.09976, testing rmse: 12.45610, score: 249.19654
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.80788 Best Score: 214.55107========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 61, training loss: 0.09975, testing rmse: 13.11510, score: 270.41454
+------------------------------------------------------------
+Epoch Loss: 62, training loss: 0.09950, testing rmse: 13.03602, score: 314.46374
+------------------------------------------------------------
+Epoch Loss: 63, training loss: 0.09925, testing rmse: 12.55075, score: 293.50863
+------------------------------------------------------------
+Epoch Loss: 64, training loss: 0.09866, testing rmse: 12.41708, score: 278.62519
+------------------------------------------------------------
+Epoch Loss: 65, training loss: 0.09974, testing rmse: 12.14405, score: 255.72957
+------------------------------------------------------------
+Epoch Loss: 66, training loss: 0.09882, testing rmse: 12.98470, score: 342.32816
+------------------------------------------------------------
+Epoch Loss: 67, training loss: 0.09958, testing rmse: 14.05402, score: 345.20581
+------------------------------------------------------------
+Epoch Loss: 68, training loss: 0.09952, testing rmse: 13.56222, score: 351.06347
+------------------------------------------------------------
+Epoch Loss: 69, training loss: 0.09912, testing rmse: 13.35520, score: 274.64267
+------------------------------------------------------------
+Epoch Loss: 70, training loss: 0.09852, testing rmse: 13.12730, score: 253.33832
+------------------------------------------------------------
+Epoch Loss: 71, training loss: 0.09883, testing rmse: 12.34104, score: 240.81031
+------------------------------------------------------------
+Epoch Loss: 72, training loss: 0.09947, testing rmse: 12.34157, score: 272.45261
+------------------------------------------------------------
+Epoch Loss: 73, training loss: 0.09901, testing rmse: 12.58813, score: 265.12172
+------------------------------------------------------------
+Epoch Loss: 74, training loss: 0.09895, testing rmse: 12.44139, score: 286.54185
+------------------------------------------------------------
+Epoch Loss: 75, training loss: 0.09933, testing rmse: 13.25018, score: 267.93818
+------------------------------------------------------------
+Epoch Loss: 76, training loss: 0.09898, testing rmse: 12.46139, score: 269.32291
+------------------------------------------------------------
+Epoch Loss: 77, training loss: 0.09918, testing rmse: 12.60681, score: 270.93712
+------------------------------------------------------------
+Epoch Loss: 78, training loss: 0.09875, testing rmse: 12.45577, score: 253.91904
+------------------------------------------------------------
+Epoch Loss: 79, training loss: 0.09863, testing rmse: 12.95040, score: 300.84192
+------------------------------------------------------------
+Epoch Loss: 80, training loss: 0.09882, testing rmse: 12.30828, score: 277.65340
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.78256 Best Score: 210.73323========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.73466 Best Score: 214.28879========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 81, training loss: 0.09856, testing rmse: 13.49957, score: 346.34738
+------------------------------------------------------------
+Epoch Loss: 82, training loss: 0.09906, testing rmse: 12.41654, score: 236.71031
+------------------------------------------------------------
+Epoch Loss: 83, training loss: 0.09819, testing rmse: 12.36040, score: 269.02581
+------------------------------------------------------------
+Epoch Loss: 84, training loss: 0.09893, testing rmse: 12.43941, score: 244.47497
+------------------------------------------------------------
+Epoch Loss: 85, training loss: 0.09841, testing rmse: 12.75510, score: 281.70306
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.66545 Best Score: 215.00154========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 86, training loss: 0.09893, testing rmse: 12.49037, score: 290.71363
+------------------------------------------------------------
+Epoch Loss: 87, training loss: 0.09862, testing rmse: 12.31008, score: 236.78881
+------------------------------------------------------------
+Epoch Loss: 88, training loss: 0.09858, testing rmse: 12.61815, score: 273.42598
+------------------------------------------------------------
+Epoch Loss: 89, training loss: 0.09889, testing rmse: 13.10585, score: 324.07244
+------------------------------------------------------------
+Epoch Loss: 90, training loss: 0.09888, testing rmse: 11.93857, score: 238.70985
+------------------------------------------------------------
+Epoch Loss: 91, training loss: 0.09870, testing rmse: 12.38383, score: 277.09735
+------------------------------------------------------------
+Epoch Loss: 92, training loss: 0.09875, testing rmse: 13.21861, score: 267.91144
+------------------------------------------------------------
+Epoch Loss: 93, training loss: 0.09876, testing rmse: 13.10264, score: 312.28233
+------------------------------------------------------------
+Epoch Loss: 94, training loss: 0.09871, testing rmse: 12.60863, score: 279.89363
+------------------------------------------------------------
+Epoch Loss: 95, training loss: 0.09859, testing rmse: 12.46326, score: 246.98294
+------------------------------------------------------------
+Epoch Loss: 96, training loss: 0.09834, testing rmse: 12.26807, score: 259.83407
+------------------------------------------------------------
+Epoch Loss: 97, training loss: 0.09837, testing rmse: 12.75813, score: 286.10998
+------------------------------------------------------------
+Epoch Loss: 98, training loss: 0.09885, testing rmse: 12.95082, score: 271.82169
+------------------------------------------------------------
+Epoch Loss: 99, training loss: 0.09789, testing rmse: 12.66723, score: 262.90449
+------------------------------------------------------------
+Epoch Loss: 100, training loss: 0.09816, testing rmse: 13.83029, score: 299.88005
+------------------------------------------------------------
+Epoch Loss: 101, training loss: 0.09833, testing rmse: 12.79751, score: 250.10558
+------------------------------------------------------------
+Epoch Loss: 102, training loss: 0.09812, testing rmse: 12.86417, score: 295.19705
+------------------------------------------------------------
+Epoch Loss: 103, training loss: 0.09804, testing rmse: 12.41216, score: 236.09209
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.60656 Best Score: 215.07185========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.60656 Best Score: 215.07185========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 104, training loss: 0.09820, testing rmse: 11.60656, score: 215.07185
+------------------------------------------------------------
+Epoch Loss: 105, training loss: 0.09833, testing rmse: 12.16288, score: 256.25414
+------------------------------------------------------------
+Epoch Loss: 106, training loss: 0.09794, testing rmse: 12.04575, score: 244.13247
+------------------------------------------------------------
+Epoch Loss: 107, training loss: 0.09883, testing rmse: 12.20822, score: 251.14375
+------------------------------------------------------------
+Epoch Loss: 108, training loss: 0.09800, testing rmse: 12.06980, score: 249.85683
+------------------------------------------------------------
+Epoch Loss: 109, training loss: 0.09821, testing rmse: 12.52257, score: 260.88384
+------------------------------------------------------------
+Epoch Loss: 110, training loss: 0.09769, testing rmse: 12.59253, score: 260.36079
+------------------------------------------------------------
+Epoch Loss: 111, training loss: 0.09846, testing rmse: 13.02449, score: 272.52153
+------------------------------------------------------------
+Epoch Loss: 112, training loss: 0.09811, testing rmse: 12.08188, score: 248.69844
+------------------------------------------------------------
+Epoch Loss: 113, training loss: 0.09879, testing rmse: 11.63698, score: 214.29646
+------------------------------------------------------------
+Epoch Loss: 114, training loss: 0.09762, testing rmse: 12.95806, score: 301.81496
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.56852 Best Score: 217.11705========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 115, training loss: 0.09809, testing rmse: 12.26852, score: 251.33110
+------------------------------------------------------------
+Epoch Loss: 116, training loss: 0.09782, testing rmse: 13.48001, score: 347.04049
+------------------------------------------------------------
+Epoch Loss: 117, training loss: 0.09767, testing rmse: 13.49310, score: 365.62308
+------------------------------------------------------------
+Epoch Loss: 118, training loss: 0.09788, testing rmse: 12.62916, score: 263.95247
+------------------------------------------------------------
+Epoch Loss: 119, training loss: 0.09766, testing rmse: 12.28198, score: 259.55502
+------------------------------------------------------------
+Epoch Loss: 120, training loss: 0.09828, testing rmse: 12.98456, score: 314.31744
+------------------------------------------------------------
+Epoch Loss: 121, training loss: 0.09827, testing rmse: 12.89742, score: 325.48182
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.42108 Best Score: 217.91373========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 122, training loss: 0.09777, testing rmse: 13.08646, score: 274.98812
+------------------------------------------------------------
+Epoch Loss: 123, training loss: 0.09763, testing rmse: 12.95566, score: 266.96688
+------------------------------------------------------------
+Epoch Loss: 124, training loss: 0.09849, testing rmse: 12.13797, score: 230.13351
+------------------------------------------------------------
+Epoch Loss: 125, training loss: 0.09688, testing rmse: 12.60347, score: 278.90129
+------------------------------------------------------------
+Epoch Loss: 126, training loss: 0.09754, testing rmse: 12.32707, score: 261.73111
+------------------------------------------------------------
+Epoch Loss: 127, training loss: 0.09751, testing rmse: 12.58854, score: 281.48197
+------------------------------------------------------------
+Epoch Loss: 128, training loss: 0.09805, testing rmse: 12.57138, score: 241.36674
+------------------------------------------------------------
+Epoch Loss: 129, training loss: 0.09768, testing rmse: 11.96548, score: 244.57674
+------------------------------------------------------------
+Epoch Loss: 130, training loss: 0.09775, testing rmse: 12.59888, score: 266.91388
+------------------------------------------------------------
+Epoch Loss: 131, training loss: 0.09788, testing rmse: 12.19736, score: 267.96658
+------------------------------------------------------------
+Epoch Loss: 132, training loss: 0.09757, testing rmse: 12.99302, score: 251.14267
+------------------------------------------------------------
+Epoch Loss: 133, training loss: 0.09742, testing rmse: 12.46441, score: 284.02115
+------------------------------------------------------------
+Epoch Loss: 134, training loss: 0.09784, testing rmse: 13.48095, score: 353.07048
+------------------------------------------------------------
+Epoch Loss: 135, training loss: 0.09826, testing rmse: 12.49682, score: 262.86146
+------------------------------------------------------------
+Epoch Loss: 136, training loss: 0.09726, testing rmse: 12.37891, score: 240.59303
+------------------------------------------------------------
+Epoch Loss: 137, training loss: 0.09831, testing rmse: 13.54059, score: 362.95334
+------------------------------------------------------------
+Epoch Loss: 138, training loss: 0.09802, testing rmse: 12.28446, score: 266.71814
+------------------------------------------------------------
+Epoch Loss: 139, training loss: 0.09724, testing rmse: 12.51850, score: 272.20071
+------------------------------------------------------------
+Epoch Loss: 140, training loss: 0.09742, testing rmse: 12.64921, score: 259.94512
+------------------------------------------------------------
+Epoch Loss: 141, training loss: 0.09769, testing rmse: 12.40530, score: 256.42732
+------------------------------------------------------------
+Epoch Loss: 142, training loss: 0.09773, testing rmse: 12.41282, score: 272.69073
+------------------------------------------------------------
+Epoch Loss: 143, training loss: 0.09741, testing rmse: 13.07766, score: 299.48467
+------------------------------------------------------------
+Epoch Loss: 144, training loss: 0.09727, testing rmse: 12.27200, score: 265.51217
+------------------------------------------------------------
+Epoch Loss: 145, training loss: 0.09750, testing rmse: 12.58523, score: 249.11221
+------------------------------------------------------------
+Epoch Loss: 146, training loss: 0.09783, testing rmse: 13.10483, score: 314.85177
+------------------------------------------------------------
+Epoch Loss: 147, training loss: 0.09729, testing rmse: 13.52757, score: 274.70284
+------------------------------------------------------------
+Epoch Loss: 148, training loss: 0.09741, testing rmse: 11.95120, score: 253.73337
+------------------------------------------------------------
+Epoch Loss: 149, training loss: 0.09745, testing rmse: 11.97614, score: 224.46536
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.37712 Best Score: 214.00301========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 150, training loss: 0.09773, testing rmse: 12.49517, score: 274.42442
+------------------------------------------------------------
+Epoch Loss: 151, training loss: 0.09710, testing rmse: 12.19861, score: 242.53164
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.30375 Best Score: 205.26880========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 152, training loss: 0.09767, testing rmse: 12.65524, score: 292.45421
+------------------------------------------------------------
+Epoch Loss: 153, training loss: 0.09728, testing rmse: 12.07788, score: 257.19199
+------------------------------------------------------------
+Epoch Loss: 154, training loss: 0.09743, testing rmse: 12.90816, score: 299.39754
+------------------------------------------------------------
+Epoch Loss: 155, training loss: 0.09670, testing rmse: 12.66726, score: 243.73430
+------------------------------------------------------------
+Epoch Loss: 156, training loss: 0.09734, testing rmse: 11.95568, score: 234.22012
+------------------------------------------------------------
+Epoch Loss: 157, training loss: 0.09730, testing rmse: 12.69982, score: 300.98520
+------------------------------------------------------------
+Epoch Loss: 158, training loss: 0.09764, testing rmse: 12.21310, score: 242.41621
+------------------------------------------------------------
+Epoch Loss: 159, training loss: 0.09741, testing rmse: 12.99663, score: 303.91176
+------------------------------------------------------------
+Epoch Loss: 160, training loss: 0.09702, testing rmse: 12.47234, score: 257.29824
+------------------------------------------------------------
+Epoch Loss: 161, training loss: 0.09742, testing rmse: 12.20403, score: 258.62047
+------------------------------------------------------------
+Epoch Loss: 162, training loss: 0.09766, testing rmse: 12.07232, score: 263.65776
+------------------------------------------------------------
+Epoch Loss: 163, training loss: 0.09764, testing rmse: 11.84083, score: 214.44349
+------------------------------------------------------------
+Epoch Loss: 164, training loss: 0.09764, testing rmse: 12.52790, score: 266.09491
+------------------------------------------------------------
+Epoch Loss: 165, training loss: 0.09753, testing rmse: 12.12391, score: 260.03179
+------------------------------------------------------------
+Epoch Loss: 166, training loss: 0.09745, testing rmse: 12.04000, score: 256.95755
+------------------------------------------------------------
+Epoch Loss: 167, training loss: 0.09721, testing rmse: 12.51408, score: 231.58713
+------------------------------------------------------------
+Epoch Loss: 168, training loss: 0.09705, testing rmse: 12.49697, score: 279.59413
+------------------------------------------------------------
+Epoch Loss: 169, training loss: 0.09719, testing rmse: 13.88425, score: 310.08977
+------------------------------------------------------------
+Epoch Loss: 170, training loss: 0.09773, testing rmse: 13.05537, score: 278.60391
+------------------------------------------------------------
+Epoch Loss: 171, training loss: 0.09704, testing rmse: 12.07699, score: 237.22572
+------------------------------------------------------------
+Epoch Loss: 172, training loss: 0.09742, testing rmse: 12.30863, score: 279.86691
+------------------------------------------------------------
+Epoch Loss: 173, training loss: 0.09771, testing rmse: 12.76188, score: 284.62473
+------------------------------------------------------------
+Epoch Loss: 174, training loss: 0.09750, testing rmse: 12.48079, score: 268.51564
+------------------------------------------------------------
+Epoch Loss: 175, training loss: 0.09689, testing rmse: 12.66039, score: 272.68730
+------------------------------------------------------------
+Epoch Loss: 176, training loss: 0.09775, testing rmse: 13.41715, score: 315.57772
+------------------------------------------------------------
+Epoch Loss: 177, training loss: 0.09769, testing rmse: 11.89671, score: 228.45015
+------------------------------------------------------------
+Epoch Loss: 178, training loss: 0.09742, testing rmse: 12.95227, score: 279.38358
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.58610 Best Score: 211.66231========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 179, training loss: 0.09756, testing rmse: 11.58610, score: 211.66231
+------------------------------------------------------------
+Epoch Loss: 180, training loss: 0.09722, testing rmse: 12.35501, score: 247.43441
+------------------------------------------------------------
+Epoch Loss: 181, training loss: 0.09694, testing rmse: 12.68997, score: 298.54167
+------------------------------------------------------------
+Epoch Loss: 182, training loss: 0.09725, testing rmse: 11.95501, score: 235.69298
+------------------------------------------------------------
+Epoch Loss: 183, training loss: 0.09699, testing rmse: 12.43437, score: 266.02441
+------------------------------------------------------------
+Epoch Loss: 184, training loss: 0.09707, testing rmse: 12.93578, score: 318.68529
+------------------------------------------------------------
+Epoch Loss: 185, training loss: 0.09650, testing rmse: 13.74440, score: 275.07132
+------------------------------------------------------------
+Epoch Loss: 186, training loss: 0.09791, testing rmse: 12.62507, score: 283.98816
+------------------------------------------------------------
+Epoch Loss: 187, training loss: 0.09706, testing rmse: 12.00325, score: 239.71301
+------------------------------------------------------------
+Epoch Loss: 188, training loss: 0.09779, testing rmse: 12.57940, score: 266.24481
+------------------------------------------------------------
+Epoch Loss: 189, training loss: 0.09719, testing rmse: 12.34435, score: 260.93798
+------------------------------------------------------------
+Epoch Loss: 190, training loss: 0.09725, testing rmse: 12.20745, score: 265.78251
+------------------------------------------------------------
+Epoch Loss: 191, training loss: 0.09717, testing rmse: 12.76722, score: 276.56706
+------------------------------------------------------------
+Epoch Loss: 192, training loss: 0.09647, testing rmse: 12.78399, score: 293.57171
+------------------------------------------------------------
+Epoch Loss: 193, training loss: 0.09729, testing rmse: 11.89613, score: 243.53970
+------------------------------------------------------------
+Epoch Loss: 194, training loss: 0.09729, testing rmse: 12.51736, score: 282.35296
+------------------------------------------------------------
+Epoch Loss: 195, training loss: 0.09725, testing rmse: 12.00892, score: 250.11479
+------------------------------------------------------------
+Epoch Loss: 196, training loss: 0.09678, testing rmse: 12.83439, score: 239.17314
+------------------------------------------------------------
+Epoch Loss: 197, training loss: 0.09706, testing rmse: 11.90543, score: 235.30586
+------------------------------------------------------------
+Epoch Loss: 198, training loss: 0.09681, testing rmse: 13.32302, score: 336.33274
+------------------------------------------------------------
+Epoch Loss: 199, training loss: 0.09761, testing rmse: 12.22483, score: 245.26924
+------------------------------------------------------------
+Epoch Loss: 200, training loss: 0.09667, testing rmse: 13.91365, score: 278.51723
+------------------------------------------------------------
+Epoch Loss: 201, training loss: 0.09733, testing rmse: 11.77145, score: 232.42615
+------------------------------------------------------------
+Epoch Loss: 202, training loss: 0.09690, testing rmse: 12.54003, score: 285.67186
+------------------------------------------------------------
+Epoch Loss: 203, training loss: 0.09714, testing rmse: 12.81783, score: 245.58015
+------------------------------------------------------------
+Epoch Loss: 204, training loss: 0.09670, testing rmse: 13.33982, score: 346.04030
+------------------------------------------------------------
+Epoch Loss: 205, training loss: 0.09711, testing rmse: 12.59894, score: 286.89165
+------------------------------------------------------------
+Epoch Loss: 206, training loss: 0.09720, testing rmse: 12.70709, score: 288.27698
+------------------------------------------------------------
+Epoch Loss: 207, training loss: 0.09718, testing rmse: 12.79547, score: 308.83972
+------------------------------------------------------------
+Epoch Loss: 208, training loss: 0.09689, testing rmse: 12.67791, score: 246.43567
+------------------------------------------------------------
+Epoch Loss: 209, training loss: 0.09776, testing rmse: 12.25217, score: 250.59825
+------------------------------------------------------------
+Epoch Loss: 210, training loss: 0.09765, testing rmse: 12.84138, score: 266.94322
+------------------------------------------------------------
+Epoch Loss: 211, training loss: 0.09744, testing rmse: 12.66729, score: 254.52333
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.56745 Best Score: 228.72966========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 212, training loss: 0.09723, testing rmse: 11.56745, score: 228.72966
+------------------------------------------------------------
+Epoch Loss: 213, training loss: 0.09723, testing rmse: 12.34537, score: 251.11411
+------------------------------------------------------------
+Epoch Loss: 214, training loss: 0.09769, testing rmse: 12.49570, score: 255.14787
+------------------------------------------------------------
+Epoch Loss: 215, training loss: 0.09712, testing rmse: 12.71981, score: 264.54157
+------------------------------------------------------------
+Epoch Loss: 216, training loss: 0.09736, testing rmse: 12.32265, score: 264.91784
+------------------------------------------------------------
+Epoch Loss: 217, training loss: 0.09700, testing rmse: 12.48451, score: 243.19393
+------------------------------------------------------------
+Epoch Loss: 218, training loss: 0.09708, testing rmse: 12.49795, score: 248.27364
+------------------------------------------------------------
+Epoch Loss: 219, training loss: 0.09662, testing rmse: 13.16243, score: 304.54723
+------------------------------------------------------------
+Epoch Loss: 220, training loss: 0.09682, testing rmse: 12.98072, score: 305.04755
+------------------------------------------------------------
+Epoch Loss: 221, training loss: 0.09695, testing rmse: 12.67927, score: 300.19402
+------------------------------------------------------------
+Epoch Loss: 222, training loss: 0.09680, testing rmse: 12.23427, score: 242.64924
+------------------------------------------------------------
+Epoch Loss: 223, training loss: 0.09691, testing rmse: 13.02448, score: 298.58459
+------------------------------------------------------------
+Epoch Loss: 224, training loss: 0.09630, testing rmse: 12.66121, score: 290.64088
+------------------------------------------------------------
+Epoch Loss: 225, training loss: 0.09688, testing rmse: 12.04807, score: 256.63065
+------------------------------------------------------------
+Epoch Loss: 226, training loss: 0.09684, testing rmse: 12.90539, score: 289.96166
+------------------------------------------------------------
+Epoch Loss: 227, training loss: 0.09707, testing rmse: 12.01967, score: 246.45231
+------------------------------------------------------------
+Epoch Loss: 228, training loss: 0.09686, testing rmse: 12.36484, score: 285.16914
+------------------------------------------------------------
+Epoch Loss: 229, training loss: 0.09714, testing rmse: 12.24611, score: 272.41152
+------------------------------------------------------------
+Epoch Loss: 230, training loss: 0.09716, testing rmse: 12.12692, score: 263.87506
+------------------------------------------------------------
+Epoch Loss: 231, training loss: 0.09701, testing rmse: 12.43594, score: 292.57140
+------------------------------------------------------------
+Epoch Loss: 232, training loss: 0.09712, testing rmse: 12.54884, score: 302.00742
+------------------------------------------------------------
+Epoch Loss: 233, training loss: 0.09708, testing rmse: 13.45487, score: 272.05458
+------------------------------------------------------------
+Epoch Loss: 234, training loss: 0.09710, testing rmse: 12.24771, score: 265.99426
+------------------------------------------------------------
+Epoch Loss: 235, training loss: 0.09686, testing rmse: 11.70294, score: 222.37578
+------------------------------------------------------------
+Epoch Loss: 236, training loss: 0.09685, testing rmse: 12.55310, score: 295.38411
+------------------------------------------------------------
+Epoch Loss: 237, training loss: 0.09676, testing rmse: 12.02480, score: 254.07007
+------------------------------------------------------------
+Epoch Loss: 238, training loss: 0.09717, testing rmse: 13.12474, score: 336.22956
+------------------------------------------------------------
+Epoch Loss: 239, training loss: 0.09693, testing rmse: 12.03825, score: 242.80190
+------------------------------------------------------------
+Epoch Loss: 240, training loss: 0.09671, testing rmse: 12.44607, score: 258.22071
+------------------------------------------------------------
+Epoch Loss: 241, training loss: 0.09693, testing rmse: 12.19498, score: 245.74007
+------------------------------------------------------------
+Epoch Loss: 242, training loss: 0.09683, testing rmse: 12.39649, score: 268.39943
+------------------------------------------------------------
+Epoch Loss: 243, training loss: 0.09771, testing rmse: 11.85659, score: 256.55249
+------------------------------------------------------------
+Epoch Loss: 244, training loss: 0.09685, testing rmse: 13.04935, score: 267.27602
+------------------------------------------------------------
+Epoch Loss: 245, training loss: 0.09681, testing rmse: 12.52001, score: 264.16188
+------------------------------------------------------------
+Epoch Loss: 246, training loss: 0.09679, testing rmse: 12.22772, score: 261.51530
+------------------------------------------------------------
+Epoch Loss: 247, training loss: 0.09688, testing rmse: 11.71321, score: 229.51868
+------------------------------------------------------------
+Epoch Loss: 248, training loss: 0.09672, testing rmse: 12.27009, score: 271.83290
+------------------------------------------------------------
+Epoch Loss: 249, training loss: 0.09724, testing rmse: 12.82728, score: 266.99582
+------------------------------------------------------------
+Epoch Loss: 250, training loss: 0.09675, testing rmse: 12.84700, score: 293.35279
+------------------------------------------------------------
+Epoch Loss: 251, training loss: 0.09657, testing rmse: 11.81992, score: 248.97425
+------------------------------------------------------------
+Epoch Loss: 252, training loss: 0.09672, testing rmse: 12.16870, score: 235.86359
+------------------------------------------------------------
+Epoch Loss: 253, training loss: 0.09682, testing rmse: 12.88336, score: 307.41242
+------------------------------------------------------------
+Epoch Loss: 254, training loss: 0.09629, testing rmse: 12.55087, score: 276.72210
+------------------------------------------------------------
+Epoch Loss: 255, training loss: 0.09713, testing rmse: 11.61781, score: 231.24416
+------------------------------------------------------------
+Epoch Loss: 256, training loss: 0.09700, testing rmse: 12.34062, score: 251.43236
+------------------------------------------------------------
+Epoch Loss: 257, training loss: 0.09722, testing rmse: 12.61871, score: 259.48669
+------------------------------------------------------------
+Epoch Loss: 258, training loss: 0.09664, testing rmse: 13.01019, score: 252.69603
+------------------------------------------------------------
+Epoch Loss: 259, training loss: 0.09705, testing rmse: 12.41833, score: 275.97787
+------------------------------------------------------------
+Epoch Loss: 260, training loss: 0.09673, testing rmse: 12.17756, score: 247.23915
+------------------------------------------------------------
+Epoch Loss: 261, training loss: 0.09677, testing rmse: 12.65680, score: 297.49233
+------------------------------------------------------------
+Epoch Loss: 262, training loss: 0.09664, testing rmse: 12.29754, score: 243.52975
+------------------------------------------------------------
+Epoch Loss: 263, training loss: 0.09749, testing rmse: 12.21014, score: 247.83417
+------------------------------------------------------------
+Epoch Loss: 264, training loss: 0.09653, testing rmse: 13.13403, score: 272.59182
+------------------------------------------------------------
+Epoch Loss: 265, training loss: 0.09698, testing rmse: 12.00609, score: 210.84404
+------------------------------------------------------------
+Epoch Loss: 266, training loss: 0.09723, testing rmse: 11.91400, score: 237.98060
+------------------------------------------------------------
+Epoch Loss: 267, training loss: 0.09745, testing rmse: 11.74968, score: 217.13790
+------------------------------------------------------------
+Epoch Loss: 268, training loss: 0.09656, testing rmse: 11.82657, score: 240.24582
+------------------------------------------------------------
+Epoch Loss: 269, training loss: 0.09755, testing rmse: 12.19038, score: 235.43739
+------------------------------------------------------------
+Epoch Loss: 270, training loss: 0.09685, testing rmse: 12.85721, score: 243.45801
+------------------------------------------------------------
+Epoch Loss: 271, training loss: 0.09708, testing rmse: 13.05342, score: 254.38422
+------------------------------------------------------------
+Epoch Loss: 272, training loss: 0.09634, testing rmse: 12.78787, score: 293.25553
+------------------------------------------------------------
+Epoch Loss: 273, training loss: 0.09708, testing rmse: 13.14111, score: 255.94315
+------------------------------------------------------------
+Epoch Loss: 274, training loss: 0.09685, testing rmse: 12.05091, score: 260.80888
+------------------------------------------------------------
+Epoch Loss: 275, training loss: 0.09684, testing rmse: 12.43562, score: 267.19001
+------------------------------------------------------------
+Epoch Loss: 276, training loss: 0.09745, testing rmse: 12.13842, score: 273.32661
+------------------------------------------------------------
+Epoch Loss: 277, training loss: 0.09670, testing rmse: 12.13565, score: 260.78173
+------------------------------------------------------------
+Epoch Loss: 278, training loss: 0.09712, testing rmse: 12.57169, score: 282.07446
+------------------------------------------------------------
+Epoch Loss: 279, training loss: 0.09736, testing rmse: 12.27736, score: 236.62247
+------------------------------------------------------------
+Epoch Loss: 280, training loss: 0.09703, testing rmse: 12.70794, score: 294.54957
+------------------------------------------------------------
+Epoch Loss: 281, training loss: 0.09677, testing rmse: 12.43062, score: 251.31320
+------------------------------------------------------------
+Epoch Loss: 282, training loss: 0.09757, testing rmse: 12.39657, score: 271.72724
+------------------------------------------------------------
+Epoch Loss: 283, training loss: 0.09715, testing rmse: 12.35636, score: 280.74691
+------------------------------------------------------------
+Epoch Loss: 284, training loss: 0.09677, testing rmse: 12.56999, score: 270.30354
+------------------------------------------------------------
+Epoch Loss: 285, training loss: 0.09675, testing rmse: 13.49943, score: 267.16651
+------------------------------------------------------------
+Epoch Loss: 286, training loss: 0.09689, testing rmse: 13.12916, score: 321.39393
+------------------------------------------------------------
+Epoch Loss: 287, training loss: 0.09738, testing rmse: 12.44281, score: 291.22501
+------------------------------------------------------------
+Epoch Loss: 288, training loss: 0.09670, testing rmse: 12.49285, score: 291.70283
+------------------------------------------------------------
+Epoch Loss: 289, training loss: 0.09631, testing rmse: 12.57543, score: 261.15431
+------------------------------------------------------------
+Epoch Loss: 290, training loss: 0.09690, testing rmse: 12.66849, score: 278.90331
+------------------------------------------------------------
+Epoch Loss: 291, training loss: 0.09649, testing rmse: 12.57182, score: 289.59889
+------------------------------------------------------------
+Epoch Loss: 292, training loss: 0.09710, testing rmse: 12.08249, score: 271.63057
+------------------------------------------------------------
+Epoch Loss: 293, training loss: 0.09660, testing rmse: 13.17074, score: 273.68583
+------------------------------------------------------------
+Epoch Loss: 294, training loss: 0.09742, testing rmse: 12.00666, score: 255.50236
+------------------------------------------------------------
+Epoch Loss: 295, training loss: 0.09628, testing rmse: 12.45510, score: 238.53400
+------------------------------------------------------------
+Epoch Loss: 296, training loss: 0.09660, testing rmse: 12.28416, score: 280.91651
+------------------------------------------------------------
+Epoch Loss: 297, training loss: 0.09605, testing rmse: 11.99408, score: 255.98692
+------------------------------------------------------------
+Epoch Loss: 298, training loss: 0.09676, testing rmse: 12.59450, score: 303.05484
+------------------------------------------------------------
+Epoch Loss: 299, training loss: 0.09606, testing rmse: 12.72173, score: 267.23358
+------------------------------------------------------------
+Epoch Loss: 300, training loss: 0.09645, testing rmse: 11.86583, score: 243.46156
+------------------------------------------------------------
+Epoch Loss: 301, training loss: 0.09656, testing rmse: 13.07506, score: 318.91915
+------------------------------------------------------------
+Epoch Loss: 302, training loss: 0.09746, testing rmse: 12.26248, score: 248.72599
+------------------------------------------------------------
+Epoch Loss: 303, training loss: 0.09685, testing rmse: 12.25648, score: 267.06649
+------------------------------------------------------------
+Epoch Loss: 304, training loss: 0.09668, testing rmse: 12.13328, score: 265.47015
+------------------------------------------------------------
+Epoch Loss: 305, training loss: 0.09681, testing rmse: 12.25658, score: 255.76054
+------------------------------------------------------------
+Epoch Loss: 306, training loss: 0.09662, testing rmse: 12.62692, score: 269.41345
+------------------------------------------------------------
+Epoch Loss: 307, training loss: 0.09752, testing rmse: 12.92225, score: 300.05308
+------------------------------------------------------------
+Epoch Loss: 308, training loss: 0.09661, testing rmse: 13.03167, score: 261.27271
+------------------------------------------------------------
+Epoch Loss: 309, training loss: 0.09661, testing rmse: 13.35679, score: 343.59552
+------------------------------------------------------------
+Epoch Loss: 310, training loss: 0.09697, testing rmse: 12.75147, score: 298.33351
+------------------------------------------------------------
+Epoch Loss: 311, training loss: 0.09675, testing rmse: 12.64351, score: 306.36381
+------------------------------------------------------------
+Epoch Loss: 312, training loss: 0.09611, testing rmse: 12.61116, score: 300.85686
+------------------------------------------------------------
+Epoch Loss: 313, training loss: 0.09682, testing rmse: 12.18667, score: 262.18287
+------------------------------------------------------------
+Epoch Loss: 314, training loss: 0.09610, testing rmse: 11.99732, score: 250.56324
+------------------------------------------------------------
+Epoch Loss: 315, training loss: 0.09668, testing rmse: 12.07782, score: 269.73201
+------------------------------------------------------------
+Epoch Loss: 316, training loss: 0.09659, testing rmse: 13.18811, score: 329.63553
+------------------------------------------------------------
+Epoch Loss: 317, training loss: 0.09748, testing rmse: 12.14351, score: 246.42677
+------------------------------------------------------------
+Epoch Loss: 318, training loss: 0.09638, testing rmse: 12.38298, score: 263.39720
+------------------------------------------------------------
+Epoch Loss: 319, training loss: 0.09651, testing rmse: 12.41162, score: 304.26453
+------------------------------------------------------------
+Epoch Loss: 320, training loss: 0.09632, testing rmse: 12.10686, score: 256.12950
+------------------------------------------------------------
+Epoch Loss: 321, training loss: 0.09687, testing rmse: 13.13753, score: 341.92109
+------------------------------------------------------------
+Epoch Loss: 322, training loss: 0.09594, testing rmse: 12.59420, score: 266.18640
+------------------------------------------------------------
+Epoch Loss: 323, training loss: 0.09628, testing rmse: 12.45448, score: 267.09703
+------------------------------------------------------------
+Epoch Loss: 324, training loss: 0.09662, testing rmse: 12.59797, score: 287.44277
+------------------------------------------------------------
+Epoch Loss: 325, training loss: 0.09672, testing rmse: 12.85784, score: 313.88690
+------------------------------------------------------------
+Epoch Loss: 326, training loss: 0.09664, testing rmse: 12.22494, score: 255.91832
+------------------------------------------------------------
+Epoch Loss: 327, training loss: 0.09684, testing rmse: 11.71616, score: 241.22141
+------------------------------------------------------------
+Epoch Loss: 328, training loss: 0.09605, testing rmse: 12.22530, score: 242.16507
+------------------------------------------------------------
+Epoch Loss: 329, training loss: 0.09683, testing rmse: 12.40449, score: 275.32355
+------------------------------------------------------------
+Epoch Loss: 330, training loss: 0.09628, testing rmse: 13.76796, score: 356.86584
+------------------------------------------------------------
+Epoch Loss: 331, training loss: 0.09653, testing rmse: 13.31019, score: 329.53077
+------------------------------------------------------------
+Epoch Loss: 332, training loss: 0.09651, testing rmse: 12.31159, score: 279.64925
+------------------------------------------------------------
+Epoch Loss: 333, training loss: 0.09614, testing rmse: 12.56459, score: 292.15013
+------------------------------------------------------------
+Epoch Loss: 334, training loss: 0.09652, testing rmse: 12.12784, score: 238.86526
+------------------------------------------------------------
+Epoch Loss: 335, training loss: 0.09642, testing rmse: 13.35204, score: 343.92076
+------------------------------------------------------------
+Epoch Loss: 336, training loss: 0.09600, testing rmse: 12.13189, score: 253.35211
+------------------------------------------------------------
+Epoch Loss: 337, training loss: 0.09607, testing rmse: 12.35493, score: 275.41800
+------------------------------------------------------------
+Epoch Loss: 338, training loss: 0.09597, testing rmse: 12.01286, score: 258.33376
+------------------------------------------------------------
+Epoch Loss: 339, training loss: 0.09619, testing rmse: 12.90288, score: 308.11605
+------------------------------------------------------------
+Epoch Loss: 340, training loss: 0.09575, testing rmse: 12.07177, score: 283.96160
+------------------------------------------------------------
+Epoch Loss: 341, training loss: 0.09579, testing rmse: 12.80699, score: 307.03713
+------------------------------------------------------------
+Epoch Loss: 342, training loss: 0.09588, testing rmse: 12.24533, score: 237.54430
+------------------------------------------------------------
+Epoch Loss: 343, training loss: 0.09618, testing rmse: 12.41714, score: 290.51769
+------------------------------------------------------------
+Epoch Loss: 344, training loss: 0.09663, testing rmse: 12.11310, score: 239.09315
+------------------------------------------------------------
+Epoch Loss: 345, training loss: 0.09683, testing rmse: 12.64562, score: 256.96031
+------------------------------------------------------------
+Epoch Loss: 346, training loss: 0.09615, testing rmse: 12.73627, score: 272.23631
+------------------------------------------------------------
+Epoch Loss: 347, training loss: 0.09604, testing rmse: 12.42818, score: 271.12114
+------------------------------------------------------------
+Epoch Loss: 348, training loss: 0.09608, testing rmse: 12.54962, score: 286.52841
+------------------------------------------------------------
+Epoch Loss: 349, training loss: 0.09550, testing rmse: 12.69559, score: 234.16336
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.28872 Best Score: 213.85171========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 350, training loss: 0.09572, testing rmse: 11.97407, score: 243.63696
+------------------------------------------------------------
+Epoch Loss: 351, training loss: 0.09632, testing rmse: 12.29641, score: 256.60304
+------------------------------------------------------------
+Epoch Loss: 352, training loss: 0.09604, testing rmse: 11.97358, score: 233.45075
+------------------------------------------------------------
+Epoch Loss: 353, training loss: 0.09578, testing rmse: 14.39129, score: 458.48115
+------------------------------------------------------------
+Epoch Loss: 354, training loss: 0.09642, testing rmse: 12.02920, score: 248.42278
+------------------------------------------------------------
+Epoch Loss: 355, training loss: 0.09618, testing rmse: 11.78161, score: 241.55468
+------------------------------------------------------------
+Epoch Loss: 356, training loss: 0.09588, testing rmse: 11.90308, score: 247.40980
+------------------------------------------------------------
+Epoch Loss: 357, training loss: 0.09559, testing rmse: 13.16229, score: 319.57729
+------------------------------------------------------------
+Epoch Loss: 358, training loss: 0.09580, testing rmse: 12.14172, score: 230.15627
+------------------------------------------------------------
+Epoch Loss: 359, training loss: 0.09628, testing rmse: 12.06060, score: 277.00263
+------------------------------------------------------------
+Epoch Loss: 360, training loss: 0.09578, testing rmse: 12.10535, score: 267.72708
+------------------------------------------------------------
+Epoch Loss: 361, training loss: 0.09639, testing rmse: 12.26891, score: 252.49317
+------------------------------------------------------------
+Epoch Loss: 362, training loss: 0.09530, testing rmse: 11.95530, score: 243.68691
+------------------------------------------------------------
+Epoch Loss: 363, training loss: 0.09526, testing rmse: 12.09772, score: 241.01211
+------------------------------------------------------------
+Epoch Loss: 364, training loss: 0.09595, testing rmse: 12.89084, score: 301.12755
+------------------------------------------------------------
+Epoch Loss: 365, training loss: 0.09578, testing rmse: 11.89867, score: 234.20240
+------------------------------------------------------------
+Epoch Loss: 366, training loss: 0.09573, testing rmse: 12.13309, score: 227.81871
+------------------------------------------------------------
+Epoch Loss: 367, training loss: 0.09592, testing rmse: 13.46786, score: 256.84861
+------------------------------------------------------------
+Epoch Loss: 368, training loss: 0.09594, testing rmse: 12.57155, score: 282.35146
+------------------------------------------------------------
+Epoch Loss: 369, training loss: 0.09642, testing rmse: 12.30372, score: 276.21062
+------------------------------------------------------------
+Epoch Loss: 370, training loss: 0.09583, testing rmse: 11.89142, score: 246.07008
+------------------------------------------------------------
+Epoch Loss: 371, training loss: 0.09612, testing rmse: 12.52598, score: 292.03416
+------------------------------------------------------------
+Epoch Loss: 372, training loss: 0.09577, testing rmse: 12.00410, score: 247.17182
+------------------------------------------------------------
+Epoch Loss: 373, training loss: 0.09649, testing rmse: 13.16259, score: 294.90055
+------------------------------------------------------------
+Epoch Loss: 374, training loss: 0.09589, testing rmse: 12.34966, score: 281.95514
+------------------------------------------------------------
+Epoch Loss: 375, training loss: 0.09623, testing rmse: 13.75433, score: 283.78895
+------------------------------------------------------------
+Epoch Loss: 376, training loss: 0.09589, testing rmse: 12.06816, score: 243.49056
+------------------------------------------------------------
+Epoch Loss: 377, training loss: 0.09542, testing rmse: 12.19767, score: 234.55288
+------------------------------------------------------------
+Epoch Loss: 378, training loss: 0.09606, testing rmse: 11.69880, score: 230.94098
+------------------------------------------------------------
+Epoch Loss: 379, training loss: 0.09565, testing rmse: 12.08318, score: 268.48291
+------------------------------------------------------------
+Epoch Loss: 380, training loss: 0.09554, testing rmse: 11.85438, score: 240.16669
+------------------------------------------------------------
+Epoch Loss: 381, training loss: 0.09577, testing rmse: 12.05303, score: 259.14102
+------------------------------------------------------------
+Epoch Loss: 382, training loss: 0.09568, testing rmse: 13.36656, score: 354.55558
+------------------------------------------------------------
+Epoch Loss: 383, training loss: 0.09642, testing rmse: 12.64720, score: 300.37070
+------------------------------------------------------------
+Epoch Loss: 384, training loss: 0.09557, testing rmse: 13.51867, score: 342.14299
+------------------------------------------------------------
+Epoch Loss: 385, training loss: 0.09605, testing rmse: 12.37445, score: 269.52908
+------------------------------------------------------------
+Epoch Loss: 386, training loss: 0.09589, testing rmse: 12.03007, score: 256.58503
+------------------------------------------------------------
+Epoch Loss: 387, training loss: 0.09555, testing rmse: 12.63310, score: 296.66433
+------------------------------------------------------------
+Epoch Loss: 388, training loss: 0.09535, testing rmse: 12.73324, score: 306.48491
+------------------------------------------------------------
+Epoch Loss: 389, training loss: 0.09540, testing rmse: 12.42695, score: 268.08435
+------------------------------------------------------------
+Epoch Loss: 390, training loss: 0.09600, testing rmse: 11.76485, score: 257.01793
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.38136 Best Score: 220.56306========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 391, training loss: 0.09604, testing rmse: 11.38136, score: 220.56306
+------------------------------------------------------------
+Epoch Loss: 392, training loss: 0.09614, testing rmse: 12.99095, score: 292.58824
+------------------------------------------------------------
+Epoch Loss: 393, training loss: 0.09524, testing rmse: 12.51097, score: 277.51104
+------------------------------------------------------------
+Epoch Loss: 394, training loss: 0.09553, testing rmse: 11.97934, score: 240.51588
+------------------------------------------------------------
+Epoch Loss: 395, training loss: 0.09590, testing rmse: 12.31926, score: 262.66416
+------------------------------------------------------------
+Epoch Loss: 396, training loss: 0.09575, testing rmse: 12.39169, score: 251.82760
+------------------------------------------------------------
+Epoch Loss: 397, training loss: 0.09591, testing rmse: 12.13725, score: 256.02432
+------------------------------------------------------------
+Epoch Loss: 398, training loss: 0.09543, testing rmse: 13.75198, score: 317.31636
+------------------------------------------------------------
+Epoch Loss: 399, training loss: 0.09557, testing rmse: 12.15316, score: 250.39228
+------------------------------------------------------------
+Epoch Loss: 400, training loss: 0.09583, testing rmse: 13.27742, score: 251.00483
+------------------------------------------------------------
+Epoch Loss: 401, training loss: 0.09612, testing rmse: 13.52959, score: 345.95607
+------------------------------------------------------------
+Epoch Loss: 402, training loss: 0.09557, testing rmse: 12.06434, score: 249.65844
+------------------------------------------------------------
+Epoch Loss: 403, training loss: 0.09495, testing rmse: 11.96330, score: 228.44322
+------------------------------------------------------------
+Epoch Loss: 404, training loss: 0.09619, testing rmse: 11.78000, score: 254.34234
+------------------------------------------------------------
+Epoch Loss: 405, training loss: 0.09517, testing rmse: 12.07767, score: 276.94646
+------------------------------------------------------------
+Epoch Loss: 406, training loss: 0.09525, testing rmse: 13.35470, score: 361.02073
+------------------------------------------------------------
+Epoch Loss: 407, training loss: 0.09580, testing rmse: 11.74545, score: 217.20309
+------------------------------------------------------------
+Epoch Loss: 408, training loss: 0.09512, testing rmse: 12.38999, score: 265.55656
+------------------------------------------------------------
+Epoch Loss: 409, training loss: 0.09610, testing rmse: 12.31406, score: 257.27027
+------------------------------------------------------------
+Epoch Loss: 410, training loss: 0.09593, testing rmse: 12.62055, score: 299.79396
+------------------------------------------------------------
+Epoch Loss: 411, training loss: 0.09546, testing rmse: 12.56394, score: 303.24586
+------------------------------------------------------------
+Epoch Loss: 412, training loss: 0.09589, testing rmse: 11.75944, score: 250.88810
+------------------------------------------------------------
+Epoch Loss: 413, training loss: 0.09574, testing rmse: 12.02222, score: 236.43148
+------------------------------------------------------------
+Epoch Loss: 414, training loss: 0.09564, testing rmse: 11.89931, score: 242.07223
+------------------------------------------------------------
+Epoch Loss: 415, training loss: 0.09620, testing rmse: 12.90348, score: 317.73480
+------------------------------------------------------------
+Epoch Loss: 416, training loss: 0.09563, testing rmse: 12.47330, score: 250.64817
+------------------------------------------------------------
+Epoch Loss: 417, training loss: 0.09554, testing rmse: 11.90988, score: 237.34815
+------------------------------------------------------------
+Epoch Loss: 418, training loss: 0.09556, testing rmse: 11.96291, score: 247.29461
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.24428 Best Score: 208.28954========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 419, training loss: 0.09521, testing rmse: 12.17383, score: 270.01395
+------------------------------------------------------------
+Epoch Loss: 420, training loss: 0.09509, testing rmse: 12.60461, score: 314.18581
+------------------------------------------------------------
+Epoch Loss: 421, training loss: 0.09594, testing rmse: 12.33720, score: 238.62336
+------------------------------------------------------------
+Epoch Loss: 422, training loss: 0.09570, testing rmse: 11.93393, score: 251.74463
+------------------------------------------------------------
+Epoch Loss: 423, training loss: 0.09511, testing rmse: 12.24969, score: 253.28500
+------------------------------------------------------------
+Epoch Loss: 424, training loss: 0.09554, testing rmse: 15.26261, score: 392.17789
+------------------------------------------------------------
+Epoch Loss: 425, training loss: 0.09492, testing rmse: 12.33103, score: 286.28200
+------------------------------------------------------------
+Epoch Loss: 426, training loss: 0.09559, testing rmse: 12.38657, score: 282.58441
+------------------------------------------------------------
+Epoch Loss: 427, training loss: 0.09554, testing rmse: 11.93449, score: 238.77443
+------------------------------------------------------------
+Epoch Loss: 428, training loss: 0.09528, testing rmse: 12.10527, score: 270.61685
+------------------------------------------------------------
+Epoch Loss: 429, training loss: 0.09567, testing rmse: 11.80683, score: 252.29203
+------------------------------------------------------------
+Epoch Loss: 430, training loss: 0.09506, testing rmse: 11.79272, score: 235.84485
+------------------------------------------------------------
+Epoch Loss: 431, training loss: 0.09601, testing rmse: 13.32741, score: 372.67631
+------------------------------------------------------------
+Epoch Loss: 432, training loss: 0.09596, testing rmse: 12.60204, score: 277.19408
+------------------------------------------------------------
+Epoch Loss: 433, training loss: 0.09532, testing rmse: 11.54529, score: 229.70034
+------------------------------------------------------------
+Epoch Loss: 434, training loss: 0.09547, testing rmse: 12.55623, score: 244.28943
+------------------------------------------------------------
+Epoch Loss: 435, training loss: 0.09619, testing rmse: 12.29841, score: 281.93387
+------------------------------------------------------------
+Epoch Loss: 436, training loss: 0.09499, testing rmse: 12.27487, score: 239.84318
+------------------------------------------------------------
+Epoch Loss: 437, training loss: 0.09583, testing rmse: 12.51721, score: 295.90220
+------------------------------------------------------------
+Epoch Loss: 438, training loss: 0.09487, testing rmse: 11.47180, score: 221.46976
+------------------------------------------------------------
+Epoch Loss: 439, training loss: 0.09519, testing rmse: 11.94444, score: 244.90840
+------------------------------------------------------------
+Epoch Loss: 440, training loss: 0.09580, testing rmse: 12.21218, score: 248.02541
+------------------------------------------------------------
+Epoch Loss: 441, training loss: 0.09561, testing rmse: 11.95066, score: 244.97032
+------------------------------------------------------------
+Epoch Loss: 442, training loss: 0.09585, testing rmse: 11.93456, score: 238.64411
+------------------------------------------------------------
+Epoch Loss: 443, training loss: 0.09598, testing rmse: 11.84147, score: 242.63968
+------------------------------------------------------------
+Epoch Loss: 444, training loss: 0.09570, testing rmse: 12.60430, score: 266.28739
+------------------------------------------------------------
+Epoch Loss: 445, training loss: 0.09536, testing rmse: 12.02780, score: 249.72780
+------------------------------------------------------------
+Epoch Loss: 446, training loss: 0.09532, testing rmse: 12.38332, score: 299.55649
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 11.35262 Best Score: 216.82552========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 447, training loss: 0.09557, testing rmse: 11.35262, score: 216.82552
+------------------------------------------------------------
+Epoch Loss: 448, training loss: 0.09511, testing rmse: 12.09838, score: 233.79511
+------------------------------------------------------------
+Epoch Loss: 449, training loss: 0.09569, testing rmse: 12.15748, score: 231.55995
+------------------------------------------------------------
+Epoch Loss: 450, training loss: 0.09529, testing rmse: 12.66768, score: 247.36451
+------------------------------------------------------------
+Epoch Loss: 451, training loss: 0.09606, testing rmse: 12.36467, score: 256.81391
+------------------------------------------------------------
+Epoch Loss: 452, training loss: 0.09492, testing rmse: 12.03927, score: 259.09065
+------------------------------------------------------------
+Epoch Loss: 453, training loss: 0.09558, testing rmse: 12.31250, score: 269.06514
+------------------------------------------------------------
+Epoch Loss: 454, training loss: 0.09533, testing rmse: 12.54031, score: 276.63761
+------------------------------------------------------------
+Epoch Loss: 455, training loss: 0.09560, testing rmse: 12.48313, score: 278.91418
+------------------------------------------------------------
+Epoch Loss: 456, training loss: 0.09563, testing rmse: 12.09353, score: 251.68194
+------------------------------------------------------------
+Epoch Loss: 457, training loss: 0.09556, testing rmse: 12.05318, score: 255.25925
+------------------------------------------------------------
+Epoch Loss: 458, training loss: 0.09492, testing rmse: 11.85821, score: 252.50108
+------------------------------------------------------------
+Epoch Loss: 459, training loss: 0.09571, testing rmse: 11.93532, score: 259.36118
+------------------------------------------------------------
+Epoch Loss: 460, training loss: 0.09548, testing rmse: 11.72817, score: 224.04785
+------------------------------------------------------------
+Epoch Loss: 461, training loss: 0.09599, testing rmse: 12.44275, score: 277.72403
+------------------------------------------------------------
+Epoch Loss: 462, training loss: 0.09518, testing rmse: 12.20183, score: 274.07622
+------------------------------------------------------------
+Epoch Loss: 463, training loss: 0.09518, testing rmse: 12.36987, score: 244.34214
+------------------------------------------------------------
+Epoch Loss: 464, training loss: 0.09572, testing rmse: 11.76479, score: 236.54224
+------------------------------------------------------------
+Epoch Loss: 465, training loss: 0.09518, testing rmse: 12.41269, score: 245.52355
+------------------------------------------------------------
+Epoch Loss: 466, training loss: 0.09553, testing rmse: 13.07121, score: 328.26650
+------------------------------------------------------------
+Epoch Loss: 467, training loss: 0.09586, testing rmse: 13.13236, score: 288.75867
+------------------------------------------------------------
+Epoch Loss: 468, training loss: 0.09588, testing rmse: 12.28917, score: 257.45336
+------------------------------------------------------------
+Epoch Loss: 469, training loss: 0.09566, testing rmse: 11.86779, score: 251.44043
+------------------------------------------------------------
+Epoch Loss: 470, training loss: 0.09510, testing rmse: 13.02029, score: 317.37913
+------------------------------------------------------------
+Epoch Loss: 471, training loss: 0.09537, testing rmse: 12.36669, score: 242.92626
+------------------------------------------------------------
+Epoch Loss: 472, training loss: 0.09570, testing rmse: 11.67124, score: 232.08127
+------------------------------------------------------------
+Epoch Loss: 473, training loss: 0.09511, testing rmse: 12.26730, score: 285.63540
+------------------------------------------------------------
+Epoch Loss: 474, training loss: 0.09507, testing rmse: 12.20249, score: 266.97946
+------------------------------------------------------------
+Epoch Loss: 475, training loss: 0.09549, testing rmse: 12.25253, score: 279.17561
+------------------------------------------------------------
+Epoch Loss: 476, training loss: 0.09610, testing rmse: 13.10155, score: 324.08626
+------------------------------------------------------------
+Epoch Loss: 477, training loss: 0.09525, testing rmse: 11.93161, score: 250.65948
+------------------------------------------------------------
+Epoch Loss: 478, training loss: 0.09531, testing rmse: 13.42582, score: 354.50914
+------------------------------------------------------------
+Epoch Loss: 479, training loss: 0.09536, testing rmse: 12.32612, score: 261.57950
+------------------------------------------------------------
+Epoch Loss: 480, training loss: 0.09528, testing rmse: 12.22419, score: 241.64095
+------------------------------------------------------------
+Epoch Loss: 481, training loss: 0.09596, testing rmse: 11.65482, score: 221.15054
+------------------------------------------------------------
+Epoch Loss: 482, training loss: 0.09571, testing rmse: 12.21972, score: 269.60124
+------------------------------------------------------------
+Epoch Loss: 483, training loss: 0.09506, testing rmse: 13.04696, score: 265.06742
+------------------------------------------------------------
+Epoch Loss: 484, training loss: 0.09564, testing rmse: 11.87577, score: 239.35690
+------------------------------------------------------------
+Epoch Loss: 485, training loss: 0.09508, testing rmse: 12.13234, score: 252.46749
+------------------------------------------------------------
+Epoch Loss: 486, training loss: 0.09538, testing rmse: 12.22285, score: 267.67071
+------------------------------------------------------------
+Epoch Loss: 487, training loss: 0.09530, testing rmse: 12.20732, score: 245.74688
+------------------------------------------------------------
+Epoch Loss: 488, training loss: 0.09482, testing rmse: 11.90816, score: 234.57377
+------------------------------------------------------------
+Epoch Loss: 489, training loss: 0.09513, testing rmse: 12.13124, score: 256.55627
+------------------------------------------------------------
+Epoch Loss: 490, training loss: 0.09550, testing rmse: 12.15010, score: 260.72001
+------------------------------------------------------------
+Epoch Loss: 491, training loss: 0.09574, testing rmse: 11.75486, score: 249.42666
+------------------------------------------------------------
+Epoch Loss: 492, training loss: 0.09586, testing rmse: 12.61667, score: 272.51426
+------------------------------------------------------------
+Epoch Loss: 493, training loss: 0.09475, testing rmse: 11.95835, score: 253.58956
+------------------------------------------------------------
+Epoch Loss: 494, training loss: 0.09506, testing rmse: 12.44464, score: 283.26869
+------------------------------------------------------------
+Epoch Loss: 495, training loss: 0.09517, testing rmse: 12.55027, score: 278.05788
+------------------------------------------------------------
+Epoch Loss: 496, training loss: 0.09577, testing rmse: 12.43530, score: 271.51692
+------------------------------------------------------------
+Epoch Loss: 497, training loss: 0.09594, testing rmse: 12.55705, score: 272.47226
+------------------------------------------------------------
+Epoch Loss: 498, training loss: 0.09514, testing rmse: 13.25427, score: 335.35741
+------------------------------------------------------------
+Epoch Loss: 499, training loss: 0.09633, testing rmse: 12.71372, score: 245.14540
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 11.24428 Best Score: 208.28954========
+========New Final Best Test Loss Updata: 11.35262 Best Score: 216.82552========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 500
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.23011, testing rmse: 19.70914, score: 1372.61821
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.14693, testing rmse: 14.58644, score: 376.51581
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 500
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.23011, testing rmse: 19.70914, score: 1372.61821
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 500
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD001-------
+Epoch Loss: 0, training loss: 0.23011, testing rmse: 19.70914, score: 1372.61821
+------------------------------------------------------------
+------------ Options -------------
+LR: 0.001
+batch_size: 20
+dataset: FD002
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 64
+drop_out: 0.1
+epoch: 100
+head: 4
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/test1
+save_path: saved_model/log/test1
+slices: 5
+smooth_param: 0.8
+test_seq_len: 30
+train_seq_len: 30
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model/test1-FD002-------
+Epoch Loss: 0, training loss: 0.19678, testing rmse: 16.20506, score: 1615.90946
+------------------------------------------------------------
+Epoch Loss: 1, training loss: 0.14373, testing rmse: 15.27299, score: 1227.82617
+------------------------------------------------------------
+Epoch Loss: 2, training loss: 0.13636, testing rmse: 15.23533, score: 953.74703
+------------------------------------------------------------
+Epoch Loss: 3, training loss: 0.13352, testing rmse: 15.14863, score: 828.31069
+------------------------------------------------------------
+Epoch Loss: 4, training loss: 0.13166, testing rmse: 14.99843, score: 1372.24124
+------------------------------------------------------------
+Epoch Loss: 5, training loss: 0.13051, testing rmse: 14.56511, score: 1073.22237
+------------------------------------------------------------
+Epoch Loss: 6, training loss: 0.13043, testing rmse: 14.47502, score: 1114.58591
+------------------------------------------------------------
+Epoch Loss: 7, training loss: 0.12935, testing rmse: 15.71678, score: 1275.44340
+------------------------------------------------------------
+Epoch Loss: 8, training loss: 0.12877, testing rmse: 14.44902, score: 930.83593
+------------------------------------------------------------
+Epoch Loss: 9, training loss: 0.12824, testing rmse: 14.21497, score: 829.93127
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 14.11787 Best Score: 814.88198========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.95458 Best Score: 942.07424========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.93014 Best Score: 896.84229========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.90717 Best Score: 876.10732========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.73676 Best Score: 856.25679========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.81907 Best Score: 918.74338========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 10, training loss: 0.12821, testing rmse: 13.81907, score: 918.74338
+------------------------------------------------------------
+Epoch Loss: 11, training loss: 0.12840, testing rmse: 14.50451, score: 1074.14264
+------------------------------------------------------------
+Epoch Loss: 12, training loss: 0.12827, testing rmse: 14.18984, score: 862.94908
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.72566 Best Score: 971.15391========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.63652 Best Score: 961.76757========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 13, training loss: 0.12756, testing rmse: 14.56474, score: 1125.51440
+------------------------------------------------------------
+Epoch Loss: 14, training loss: 0.12761, testing rmse: 14.44082, score: 955.85460
+------------------------------------------------------------
+Epoch Loss: 15, training loss: 0.12758, testing rmse: 14.57631, score: 997.97552
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.49987 Best Score: 796.01695========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 16, training loss: 0.12726, testing rmse: 14.52735, score: 1097.41669
+------------------------------------------------------------
+Epoch Loss: 17, training loss: 0.12670, testing rmse: 13.97982, score: 804.15647
+------------------------------------------------------------
+Epoch Loss: 18, training loss: 0.12673, testing rmse: 16.18622, score: 1748.02713
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.42151 Best Score: 823.06501========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 19, training loss: 0.12671, testing rmse: 13.87544, score: 856.07309
+------------------------------------------------------------
+Epoch Loss: 20, training loss: 0.12664, testing rmse: 14.23605, score: 833.02319
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.80698 Best Score: 941.32674========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 21, training loss: 0.12626, testing rmse: 13.80698, score: 941.32674
+------------------------------------------------------------
+Epoch Loss: 22, training loss: 0.12608, testing rmse: 14.54096, score: 890.05435
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.32871 Best Score: 762.36890========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 23, training loss: 0.12605, testing rmse: 14.69838, score: 1201.20974
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.32676 Best Score: 775.50183========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.68554 Best Score: 730.69963========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 24, training loss: 0.12603, testing rmse: 13.68554, score: 730.69963
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.19444 Best Score: 746.59467========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.10245 Best Score: 738.07477========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 25, training loss: 0.12595, testing rmse: 14.04360, score: 925.58157
+------------------------------------------------------------
+Epoch Loss: 26, training loss: 0.12565, testing rmse: 14.07294, score: 1087.58046
+------------------------------------------------------------
+Epoch Loss: 27, training loss: 0.12545, testing rmse: 13.74616, score: 935.48723
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.58468 Best Score: 743.79917========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 28, training loss: 0.12529, testing rmse: 13.58468, score: 743.79917
+------------------------------------------------------------
+Epoch Loss: 29, training loss: 0.12479, testing rmse: 13.84171, score: 809.17764
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.09696 Best Score: 825.96307========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 30, training loss: 0.12431, testing rmse: 13.80326, score: 825.26259
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.34882 Best Score: 720.84382========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 31, training loss: 0.12436, testing rmse: 13.34882, score: 720.84382
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 13.00780 Best Score: 712.06078========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 32, training loss: 0.12398, testing rmse: 14.15952, score: 909.10812
+------------------------------------------------------------
+Epoch Loss: 33, training loss: 0.12420, testing rmse: 13.55014, score: 718.23215
+------------------------------------------------------------
+Epoch Loss: 34, training loss: 0.12387, testing rmse: 14.92140, score: 798.91042
+------------------------------------------------------------
+Epoch Loss: 35, training loss: 0.12390, testing rmse: 13.41854, score: 777.81978
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.99257 Best Score: 716.67832========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 36, training loss: 0.12382, testing rmse: 14.10907, score: 994.21302
+------------------------------------------------------------
+Epoch Loss: 37, training loss: 0.12357, testing rmse: 13.54454, score: 775.24604
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.19615 Best Score: 793.19435========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 38, training loss: 0.12326, testing rmse: 13.19615, score: 793.19435
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.96409 Best Score: 712.24378========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 39, training loss: 0.12341, testing rmse: 14.03514, score: 953.02273
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.94567 Best Score: 728.64811========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 40, training loss: 0.12361, testing rmse: 14.69740, score: 1094.58931
+------------------------------------------------------------
+Epoch Loss: 41, training loss: 0.12332, testing rmse: 14.19050, score: 855.68296
+------------------------------------------------------------
+Epoch Loss: 42, training loss: 0.12347, testing rmse: 13.93435, score: 871.17060
+------------------------------------------------------------
+Epoch Loss: 43, training loss: 0.12341, testing rmse: 13.75274, score: 862.44833
+------------------------------------------------------------
+Epoch Loss: 44, training loss: 0.12332, testing rmse: 14.47084, score: 1026.93806
+------------------------------------------------------------
+Epoch Loss: 45, training loss: 0.12311, testing rmse: 13.72193, score: 785.94419
+------------------------------------------------------------
+Epoch Loss: 46, training loss: 0.12308, testing rmse: 13.98719, score: 967.94427
+------------------------------------------------------------
+Epoch Loss: 47, training loss: 0.12331, testing rmse: 13.64211, score: 848.89672
+------------------------------------------------------------
+Epoch Loss: 48, training loss: 0.12314, testing rmse: 13.44324, score: 794.03250
+------------------------------------------------------------
+Epoch Loss: 49, training loss: 0.12271, testing rmse: 13.40463, score: 797.09186
+------------------------------------------------------------
+Epoch Loss: 50, training loss: 0.12299, testing rmse: 13.75441, score: 755.01473
+------------------------------------------------------------
+Epoch Loss: 51, training loss: 0.12287, testing rmse: 14.37951, score: 723.40696
+------------------------------------------------------------
+Epoch Loss: 52, training loss: 0.12302, testing rmse: 13.76184, score: 841.21127
+------------------------------------------------------------
+Epoch Loss: 53, training loss: 0.12266, testing rmse: 13.97346, score: 767.64062
+------------------------------------------------------------
+Epoch Loss: 54, training loss: 0.12303, testing rmse: 14.61661, score: 1216.80787
+------------------------------------------------------------
+Epoch Loss: 55, training loss: 0.12276, testing rmse: 13.63805, score: 810.75850
+------------------------------------------------------------
+Epoch Loss: 56, training loss: 0.12280, testing rmse: 14.03510, score: 984.63637
+------------------------------------------------------------
+Epoch Loss: 57, training loss: 0.12239, testing rmse: 13.71607, score: 723.15248
+------------------------------------------------------------
+Epoch Loss: 58, training loss: 0.12254, testing rmse: 13.64889, score: 808.74752
+------------------------------------------------------------
+Epoch Loss: 59, training loss: 0.12289, testing rmse: 14.20789, score: 777.48658
+------------------------------------------------------------
+Epoch Loss: 60, training loss: 0.12270, testing rmse: 13.80683, score: 828.64676
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.13083 Best Score: 851.52004========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 61, training loss: 0.12315, testing rmse: 13.13083, score: 851.52004
+------------------------------------------------------------
+Epoch Loss: 62, training loss: 0.12263, testing rmse: 14.01634, score: 1075.21962
+------------------------------------------------------------
+Epoch Loss: 63, training loss: 0.12278, testing rmse: 15.31326, score: 1230.45701
+------------------------------------------------------------
+Epoch Loss: 64, training loss: 0.12232, testing rmse: 13.86653, score: 761.81264
+------------------------------------------------------------
+Epoch Loss: 65, training loss: 0.12260, testing rmse: 13.61486, score: 792.75159
+------------------------------------------------------------
+Epoch Loss: 66, training loss: 0.12240, testing rmse: 13.79663, score: 978.80054
+------------------------------------------------------------
+Epoch Loss: 67, training loss: 0.12260, testing rmse: 13.89278, score: 738.80118
+------------------------------------------------------------
+Epoch Loss: 68, training loss: 0.12266, testing rmse: 13.58396, score: 861.78993
+------------------------------------------------------------
+Epoch Loss: 69, training loss: 0.12229, testing rmse: 13.63917, score: 895.26103
+------------------------------------------------------------
+Epoch Loss: 70, training loss: 0.12275, testing rmse: 14.03200, score: 844.58736
+------------------------------------------------------------
+Epoch Loss: 71, training loss: 0.12222, testing rmse: 13.86638, score: 695.97380
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 13.08047 Best Score: 746.23688========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 72, training loss: 0.12221, testing rmse: 13.08047, score: 746.23688
+------------------------------------------------------------
+Epoch Loss: 73, training loss: 0.12215, testing rmse: 13.47570, score: 915.21891
+------------------------------------------------------------
+Epoch Loss: 74, training loss: 0.12232, testing rmse: 14.29812, score: 728.73036
+------------------------------------------------------------
+Epoch Loss: 75, training loss: 0.12265, testing rmse: 13.90592, score: 964.22037
+------------------------------------------------------------
+Epoch Loss: 76, training loss: 0.12242, testing rmse: 13.62575, score: 961.12325
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.89006 Best Score: 720.17761========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 77, training loss: 0.12210, testing rmse: 13.52425, score: 937.59851
+------------------------------------------------------------
+Epoch Loss: 78, training loss: 0.12233, testing rmse: 13.93553, score: 969.49489
+------------------------------------------------------------
+Epoch Loss: 79, training loss: 0.12199, testing rmse: 14.03299, score: 804.38898
+------------------------------------------------------------
+Epoch Loss: 80, training loss: 0.12208, testing rmse: 13.16938, score: 770.66765
+------------------------------------------------------------
+Epoch Loss: 81, training loss: 0.12231, testing rmse: 13.78078, score: 724.05728
+------------------------------------------------------------
+Epoch Loss: 82, training loss: 0.12233, testing rmse: 14.20458, score: 1041.26157
+------------------------------------------------------------
+Epoch Loss: 83, training loss: 0.12220, testing rmse: 13.92050, score: 912.59261
+------------------------------------------------------------
+Epoch Loss: 84, training loss: 0.12203, testing rmse: 13.55610, score: 785.96830
+------------------------------------------------------------
+Epoch Loss: 85, training loss: 0.12239, testing rmse: 13.36488, score: 825.19818
+------------------------------------------------------------
+Epoch Loss: 86, training loss: 0.12259, testing rmse: 13.52657, score: 794.02288
+------------------------------------------------------------
+Epoch Loss: 87, training loss: 0.12259, testing rmse: 15.39639, score: 1142.66245
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.88006 Best Score: 794.93864========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 88, training loss: 0.12235, testing rmse: 15.57962, score: 1297.19943
+------------------------------------------------------------
+Epoch Loss: 89, training loss: 0.12198, testing rmse: 13.33123, score: 818.38612
+------------------------------------------------------------
+Epoch Loss: 90, training loss: 0.12199, testing rmse: 14.31288, score: 710.76259
+------------------------------------------------------------
+Epoch Loss: 91, training loss: 0.12262, testing rmse: 14.69161, score: 830.77630
+------------------------------------------------------------
+Epoch Loss: 92, training loss: 0.12220, testing rmse: 13.40324, score: 855.90546
+------------------------------------------------------------
+Epoch Loss: 93, training loss: 0.12194, testing rmse: 13.65930, score: 720.77967
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.78271 Best Score: 758.41358========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Final Best Test Loss Updata: 12.90615 Best Score: 703.29733========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Epoch Loss: 94, training loss: 0.12222, testing rmse: 12.90615, score: 703.29733
+------------------------------------------------------------
+Epoch Loss: 95, training loss: 0.12186, testing rmse: 13.08307, score: 794.00133
+------------------------------------------------------------
+Epoch Loss: 96, training loss: 0.12204, testing rmse: 13.70704, score: 785.47346
+------------------------------------------------------------
+Epoch Loss: 97, training loss: 0.12240, testing rmse: 14.02549, score: 811.70933
+------------------------------------------------------------
+Epoch Loss: 98, training loss: 0.12214, testing rmse: 13.60864, score: 859.17705
+------------------------------------------------------------
+Epoch Loss: 99, training loss: 0.12206, testing rmse: 14.65206, score: 951.30450
+------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+========New Best Test Loss Updata: 12.78271 Best Score: 758.41358========
+========New Final Best Test Loss Updata: 12.90615 Best Score: 703.29733========
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
