@@ -1,6 +1,6 @@
 
-DATASET='FD002'
-
+#DATASET='pretrain_all'
+DATASET='FD003'
 #MODES='Train'
 MODES='test'
 MODEL_PATH='saved_model/model/'           # 模型保存路径

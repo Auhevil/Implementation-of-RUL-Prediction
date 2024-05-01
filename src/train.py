@@ -184,4 +184,7 @@ def Training(opt):
         logger.cprint("Epoch: %d, training loss: %1.5f, testing rmse: %1.5f, score: %1.5f" % (
         epoch + 1, train_epoch_loss, test_loss, res))
         logger.cprint("------------------------------------------------------------")
+    logger.cprint(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
+    logger.cprint("========Last Best Test Loss Updata: %1.5f Best Score: %1.5f========" % (best_test_rmse, best_score))
+    logger.cprint(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
     return
