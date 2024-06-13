@@ -65,7 +65,7 @@ class Encoder(nn.Module):
 
         # -- Forward
         enc_output = src_seq
-        #enc_output = self.dropout(src_seq)
+        # enc_output = self.dropout(src_seq)
         # enc_output = self.layer_norm(enc_output)
 
         for enc_layer in self.layer_stack:

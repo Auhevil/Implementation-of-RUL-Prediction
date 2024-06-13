@@ -37,7 +37,6 @@ def add_operating_condition(df):
 
 def condition_scaler(df_train, df_test, sensor_names):
     # apply operating condition specific scaling
-    #scaler = StandardScaler()
     scaler = MinMaxScaler()
     print(df_train['op_cond'].unique())
     for condition in df_train['op_cond'].unique():

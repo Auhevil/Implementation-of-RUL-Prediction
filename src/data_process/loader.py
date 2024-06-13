@@ -15,7 +15,7 @@ class SequenceDataset(Dataset):
         y_ = []
         time_stamp = []
     
-        if mode == 'train':
+        if mode == 'train': # use patch_size as window and the last value in the window as the RUL
             self.unit_nr_total = len(group["unit_nr"].value_counts())
             i=1
        
@@ -31,8 +31,7 @@ class SequenceDataset(Dataset):
                     X = X.astype(float) 
                     X_.append(X)
                     
-
-                    y=self.x[j-1,-1]
+                    y=self.x[j-1,-1]    # get the value of last column-RUL
 
                     if y >=125:
                         y_.append(125)

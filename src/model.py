@@ -1,16 +1,28 @@
 import torch
 import torch.nn as nn
-from timm.models.vision_transformer import Block
-import pdb
+import numpy as np
+import random
 import math
 from transformer.Layers import Encoder
 
+def set_seed(seed):
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed(seed)
+        torch.cuda.manual_seed_all(seed)  # if you are using multi-GPU.
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+
+set_seed(42)
 
 class Gating(nn.Module):
     def __init__(self, m, d_model, seq_len):  # 128,128
         super().__init__()
         self.m = m
         self.seq_len = seq_len
+
         # the reset gate r_i
         self.W_r = nn.Parameter(torch.Tensor(m, m))
         self.V_r = nn.Parameter(torch.Tensor(m, m))
@@ -38,16 +50,17 @@ class Gating(nn.Module):
 
     def forward(self, x):
         x = x
-        x_i = x  # only applying the gating on the current row even with the stack of 3 rows cames as input (1,1,30,14)
-        h_i = self.cnn_layers(
-            x)  # shape becomes 1,1,1,14 as the nn.conv2d has output channel as 1 but the convolution is applied on whole past input (stack of three)
+        x_i = x  # only applying the gating on the current row even with the stack of 3 rows comes as input (1,1,30,14)
+        h_i = self.cnn_layers(x)
         r_i = torch.sigmoid(torch.matmul(h_i, self.W_r) + torch.matmul(x_i, self.V_r) + self.b_r)
         u_i = torch.sigmoid(torch.matmul(h_i, self.W_u) + torch.matmul(x_i, self.V_u) + self.b_u)
+
         # the output of the gating mechanism
         hh_i = torch.mul(h_i, u_i) + torch.mul(x_i, r_i)
 
         return torch.matmul(hh_i,
                             self.W_e) + self.b_e  # (the final output is 1,1,1,128 as the encoder has size of 128.)
+        # return torch.matmul(x,self.W_e) + self.b_e  # (the final output is 1,1,1,128 as the encoder has size of 128.)
 
 
 class FixedPositionalEncoding(nn.Module):
@@ -116,6 +129,7 @@ class GCU_Transformer(nn.Module):
             nn.Linear(in_features=50, out_features=10),
             nn.ReLU(inplace=True),
             # nn.Dropout(p=0.1),
+            # nn.Linear(in_features=10, out_features=1)
         )
 
         self.gating = Gating(in_chans, embed_dim, seq_size)
@@ -155,6 +169,7 @@ class GCU_Transformer(nn.Module):
     def forward(self, seq):
         gcu_out = self.gating(seq)
         latent_x = self.forward_encoder(gcu_out)
+        # out = self.seq_tf(latent_x.reshape(-1, self.seq_size * self.embed_dim))
         y = latent_x.reshape(-1, self.seq_size * self.embed_dim)
         x_tf = self.seq_tf(y)
         out = self.output1(x_tf)

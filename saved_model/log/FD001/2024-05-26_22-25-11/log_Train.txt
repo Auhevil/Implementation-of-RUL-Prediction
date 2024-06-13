@@ -1,0 +1,31 @@
+------------ Options -------------
+LR: 0.0001
+batch_size: 20
+dataset: FD001
+decay_ratio: 0.5
+decay_step: 100.0
+dim_en: 128
+drop_out: 0.1
+epoch: 1000
+head: 4
+logsave_path: saved_model/log/FD001
+modes: Train
+num_enc_layers: 1
+num_features: 14
+patch_size: 3
+path: saved_model/model/
+slices: 5
+smooth_param: 0.8
+test_seq_len: 5
+train_seq_len: 5
+weight_decay: 0.0001
+-------------- End ----------------
+
+------Train-------
+------saved_model/model//FD001/2024-05-26_22-25-14-------
+Epoch: 1, training loss: 0.27514, testing rmse: 20.53006, score: 1209.73201
+------------------------------------------------------------
+Epoch: 2, training loss: 0.19598, testing rmse: 19.89300, score: 950.32285
+------------------------------------------------------------
+Epoch: 3, training loss: 0.18313, testing rmse: 19.13893, score: 964.84193
+------------------------------------------------------------
